@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7673, 49.4431]
+      },
+      "properties": {
+        "name": "Kaiserslautern Central Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7650, 49.4450]
+      },
+      "properties": {
+        "name": "Japanese Garden Kaiserslautern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7555, 49.4390]
+      },
+      "properties": {
+        "name": "Kaiserslautern Zoo"
+      }
+    }
+  ]
+}

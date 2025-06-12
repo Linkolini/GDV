@@ -1,0 +1,5953 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-31T19:26:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152301187",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "68199",
+        "addr:street": "Angelstraße",
+        "amenity": "nightclub",
+        "building": "yes",
+        "lgbtq": "welcome",
+        "name": "MS Connexion",
+        "website": "https://www.msconnexion.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4961682,
+          49.4494045
+        ]
+      },
+      "id": "way/152301187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160895150",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68219",
+        "addr:street": "Vorderer Sporwörth",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Sporwörth Pitstop",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5174323,
+          49.4419092
+        ]
+      },
+      "id": "way/160895150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161012234",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "68219",
+        "addr:street": "Beim Johannkirchhof",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "B 51",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5149286,
+          49.4402483
+        ]
+      },
+      "id": "way/161012234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161809975",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "RUDE7 | music & culture",
+        "website": "https://www.rude-7.de/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4593023,
+          49.50595
+        ]
+      },
+      "id": "way/161809975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161809979",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "68169",
+        "addr:street": "Industriestraße",
+        "amenity": "nightclub",
+        "building": "yes",
+        "email": "info@7er-club.com",
+        "name": "7er-Club Mannheim",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.7er-club.com/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4594476,
+          49.5055975
+        ]
+      },
+      "id": "way/161809979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/162817381",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5109852,
+          49.4903503
+        ]
+      },
+      "id": "way/162817381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172840025",
+        "amenity": "pub",
+        "building": "hut",
+        "check_date": "2023-10-25",
+        "name": "Lunch Box",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5610968,
+          49.4522315
+        ]
+      },
+      "id": "way/172840025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182515976",
+        "amenity": "biergarten",
+        "description": "im Winter nur eine Sandfläche",
+        "name": "Neckarstrand",
+        "surface": "sand",
+        "toilets:wheelchair": "no",
+        "website": "https://www.neckarstrand-mannheim.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4733438,
+          49.4930564
+        ]
+      },
+      "id": "way/182515976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/192988172",
+        "addr:city": "Mannheim",
+        "addr:street": "Friedrichsring",
+        "amenity": "biergarten",
+        "name": "OEG Citybeach",
+        "toilets:wheelchair": "no",
+        "website": "https://oeg-citybeach.de/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4725431,
+          49.4929025
+        ]
+      },
+      "id": "way/192988172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202074042",
+        "amenity": "biergarten",
+        "name": "PSV Schützenhaus",
+        "opening_hours": "Tu-Sa 16:30-24:00; PH,Su 11:00-23:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5094283,
+          49.4856084
+        ]
+      },
+      "id": "way/202074042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224447219",
+        "amenity": "biergarten",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465268,
+          49.4568039
+        ]
+      },
+      "id": "way/224447219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274084014",
+        "amenity": "biergarten",
+        "name": "Estragon",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4718371,
+          49.4453927
+        ]
+      },
+      "id": "way/274084014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274213344",
+        "amenity": "biergarten",
+        "name": "Alte Au",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5083914,
+          49.4962025
+        ]
+      },
+      "id": "way/274213344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274489021",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.488338,
+          49.5085279
+        ]
+      },
+      "id": "way/274489021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274489022",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4928332,
+          49.507815
+        ]
+      },
+      "id": "way/274489022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/278175894",
+        "amenity": "biergarten",
+        "name": "Pizzeria Piccolo Italia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5487996,
+          49.4720069
+        ]
+      },
+      "id": "way/278175894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279683897",
+        "amenity": "biergarten",
+        "name": "Weinstube Weingärtner",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5635481,
+          49.4675495
+        ]
+      },
+      "id": "way/279683897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282749900",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "32",
+        "addr:postcode": "68169",
+        "addr:street": "Gartenfeldstraße",
+        "amenity": "pub",
+        "name": "Helgas Zapfhahn",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676614,
+          49.5029252
+        ]
+      },
+      "id": "node/282749900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/285603920",
+        "amenity": "bar",
+        "name": "beOne",
+        "opening_hours": "closed",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.467769,
+          49.4994995
+        ]
+      },
+      "id": "node/285603920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289082329",
+        "addr:housenumber": "7-9",
+        "addr:place": "L15",
+        "addr:postcode": "68161",
+        "amenity": "pub",
+        "email": "info@oreillys-mannheim.de",
+        "level": "0",
+        "name": "O'Reilly's Irish Pub",
+        "note:opening_hours": "geschlossen seit 2022-07-19 nach Feuer",
+        "opening_hours": "off",
+        "phone": "+49 621 27383",
+        "removed:website": "http://www.oreillys-mannheim.de",
+        "theme": "irish",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4702053,
+          49.4813697
+        ]
+      },
+      "id": "node/289082329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295481697",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4951053,
+          49.5029651
+        ]
+      },
+      "id": "way/295481697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308354104",
+        "amenity": "biergarten",
+        "check_date": "2024-07-08",
+        "name": "Biergarten von Pizzeria/Eiscafe Adria",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4748595,
+          49.4967151
+        ]
+      },
+      "id": "way/308354104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314971192",
+        "amenity": "pub",
+        "check_date": "2024-10-22",
+        "entrance": "yes",
+        "name": "Big Ben",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5788665,
+          49.4424891
+        ]
+      },
+      "id": "node/314971192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/402337691",
+        "amenity": "biergarten",
+        "name": "Biergarten des Clubhaus SV Waldhof 07 bei Dimi",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4841083,
+          49.5321382
+        ]
+      },
+      "id": "way/402337691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440659112",
+        "amenity": "biergarten",
+        "note": "Wasserskianlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5301696,
+          49.4122025
+        ]
+      },
+      "id": "node/440659112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453492001",
+        "amenity": "biergarten",
+        "leisure": "outdoor_seating",
+        "phone": "+49 621 7616053",
+        "takeaway": "yes",
+        "website": "http://www.benjamins-diner.de/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5427595,
+          49.5175295
+        ]
+      },
+      "id": "way/453492001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471069633",
+        "amenity": "pub",
+        "name": "Fitzgeralds",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4741327,
+          49.4912793
+        ]
+      },
+      "id": "node/471069633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530185599",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Kaffeehaus Neckarau",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4900163,
+          49.454777
+        ]
+      },
+      "id": "node/530185599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674110574",
+        "amenity": "pub",
+        "check_date:opening_hours": "2023-01-08",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Cafe Milan",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4730118,
+          49.4901057
+        ]
+      },
+      "id": "node/674110574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674110593",
+        "amenity": "nightclub",
+        "check_date": "2023-04-29",
+        "email": "kontakt@club-action-disco.de",
+        "name": "Club ACTION Disco",
+        "opening_hours": "Fr, Sa 22:00-12:00; Su-Th 22:00-5:00",
+        "phone": "+49 621 153435",
+        "website": "http://www.club-action-disco.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4740948,
+          49.4912369
+        ]
+      },
+      "id": "node/674110593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/694702725",
+        "amenity": "bar",
+        "name": "Caffe Queen",
+        "old_name": "Lagune Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4687857,
+          49.4977699
+        ]
+      },
+      "id": "node/694702725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823456190",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "last_check": "2018-05",
+        "name": "Chocolate - Café, Bistro, Cocktailbar",
+        "opening_hours": "Mo-Fr 10:00-3:00,Sa-Su 10:00-5:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 43723983",
+        "website": "https://chocolate-cocktailbar.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4621623,
+          49.4912938
+        ]
+      },
+      "id": "node/823456190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823456759",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "49",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "amenity": "nightclub",
+        "contact:email": "info@hafen49.de",
+        "contact:facebook": "https://www.facebook.com/Hafen49/events",
+        "contact:fax": "+49 621 181919296",
+        "contact:phone": "+49 621 15699178",
+        "contact:ra": "https://ra.co/clubs/92855",
+        "contact:website": "https://www.hafen49.de",
+        "disused:contact:website": "http://www.hafenstrand-mannheim.de",
+        "name": "Hafen 49",
+        "note": "events daytime (nightclub)",
+        "old_name": "Hafenstrand Mannheim",
+        "open_air": "yes",
+        "operator": "Loft GmbH",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "barrierefreier Eingang und Behindertentoilette vorhanden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4569104,
+          49.4984535
+        ]
+      },
+      "id": "node/823456759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823457034",
+        "addr:housenumber": "10",
+        "addr:postcode": "68159",
+        "addr:street": "G7",
+        "amenity": "pub",
+        "brewery": "yes",
+        "contact:instagram": "odeon_mannheim",
+        "drink:club-mate": "served",
+        "email": "cafeodeon@yahoo.de",
+        "last_check": "2018-4",
+        "min_age": "18",
+        "name": "Café Odeon",
+        "opening_hours": "Tu-Sa 19:00-01:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "phone": "+49 176 82035974",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4627076,
+          49.4919527
+        ]
+      },
+      "id": "node/823457034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823457126",
+        "amenity": "bar",
+        "name": "Soho",
+        "phone": "+49 621 13382",
+        "website": "https://www.soho-club.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4630468,
+          49.4936654
+        ]
+      },
+      "id": "node/823457126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823457147",
+        "amenity": "bar",
+        "description": "Gin, Wine & Beer",
+        "name": "Maria",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4590737,
+          49.4936294
+        ]
+      },
+      "id": "node/823457147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823457277",
+        "amenity": "bar",
+        "name": "Filmriss",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4620388,
+          49.4934934
+        ]
+      },
+      "id": "node/823457277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872444641",
+        "amenity": "bar",
+        "name": "Caffe-Bar Barista",
+        "old_name": "Artista",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4684571,
+          49.5000571
+        ]
+      },
+      "id": "node/872444641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872444666",
+        "amenity": "bar",
+        "name": "Two Palms Lounge",
+        "old_amenity": "fast_food",
+        "old_cuisine": "asian",
+        "old_name": "Sky-Food",
+        "old_website": "www.skyfood.de",
+        "start_date": "2019-01",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.471042,
+          49.5004901
+        ]
+      },
+      "id": "node/872444666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872544002",
+        "amenity": "pub",
+        "name": "Zum Neuen Meßplatz",
+        "opening_hours": "Mo-Su,PH 14:00-18:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4698287,
+          49.504112
+        ]
+      },
+      "id": "node/872544002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/893277829",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "22",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "amenity": "pub",
+        "name": "Spiel Bar",
+        "old_name": "Restaurant Namaste",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4719929,
+          49.4988525
+        ]
+      },
+      "id": "node/893277829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905189891",
+        "amenity": "nightclub",
+        "email": "info@cubes-mannheim.de",
+        "fax": "+49 621 40040422",
+        "image": "https://commons.wikimedia.org/wiki/File:Club_Ritzz_Mannheim_O7.jpg",
+        "name": "CUBES",
+        "phone": "+49 621 29996330",
+        "website": "https://cubes-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4734334,
+          49.4841865
+        ]
+      },
+      "id": "node/905189891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919773635",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:CafeS3_Mannheim_S3.jpg",
+        "min_age": "18",
+        "name": "Cafe S3",
+        "old_name": "Me&You - Bar",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470808,
+          49.4898239
+        ]
+      },
+      "id": "node/919773635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/930372515",
+        "amenity": "bar",
+        "name": "Carisma Sisha Lounge",
+        "phone": "+49 621 43732578",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4751639,
+          49.4899951
+        ]
+      },
+      "id": "node/930372515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969474346",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4727261,
+          49.4757443
+        ]
+      },
+      "id": "way/969474346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1000832570",
+        "amenity": "pub",
+        "name": "Mythos",
+        "old_name2": "Mash",
+        "opening_hours": "Mo-Th 11:00-24:00, Fr 11:00-02:00, Sa 15:00-02:00, Su,PH 15:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4838262,
+          49.4772484
+        ]
+      },
+      "id": "node/1000832570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1034972178",
+        "amenity": "biergarten",
+        "name": "Eichbaum Biergarten",
+        "opening_hours": "Th-Sa 11:00-20:00,11:00-21:30",
+        "smoking": "separated",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4893734,
+          49.4953941
+        ]
+      },
+      "id": "way/1034972178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160268869",
+        "amenity": "biergarten",
+        "name": "Gartenlaube Freizeithaus",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4986658,
+          49.4823535
+        ]
+      },
+      "id": "way/1160268869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164129161",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8a",
+        "addr:postcode": "68259",
+        "addr:street": "Kurzer Sandbühl",
+        "amenity": "biergarten",
+        "name": "Biergarten (H9)",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5204908,
+          49.4992325
+        ]
+      },
+      "id": "way/1164129161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164130371",
+        "amenity": "biergarten",
+        "brewery": "yes;various",
+        "name": "Biergarten vor H9",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5201677,
+          49.4992805
+        ]
+      },
+      "id": "way/1164130371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173683366",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "33",
+        "addr:postcode": "68199",
+        "addr:street": "Angelstraße",
+        "amenity": "nightclub",
+        "building": "yes",
+        "lgbtq": "primary",
+        "min_age": "18",
+        "name": "jail's",
+        "opening_hours": "Tu-Su 17:30-01:30",
+        "smoking": "isolated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4962589,
+          49.4493755
+        ]
+      },
+      "id": "way/1173683366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175103213",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "25-29",
+        "addr:postcode": "68259",
+        "addr:street": "Neuer Gartenschauweg",
+        "amenity": "biergarten",
+        "name": "Biergarten am i-Punkt Grün",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5213101,
+          49.5008392
+        ]
+      },
+      "id": "way/1175103213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175286765",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "23b",
+        "addr:postcode": "68259",
+        "addr:street": "Neuer Gartenschauweg",
+        "amenity": "biergarten",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5219826,
+          49.5007435
+        ]
+      },
+      "id": "way/1175286765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175286766",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "23a",
+        "addr:postcode": "68259",
+        "addr:street": "Neuer Gartenschauweg",
+        "amenity": "biergarten",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5220566,
+          49.5007437
+        ]
+      },
+      "id": "way/1175286766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1175301113",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "13",
+        "addr:postcode": "68259",
+        "addr:street": "Breiter Hallenweg",
+        "amenity": "biergarten",
+        "name": "Spinelli.kitchen",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5222827,
+          49.4996108
+        ]
+      },
+      "id": "way/1175301113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190588953",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4913865,
+          49.484808
+        ]
+      },
+      "id": "way/1190588953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190615032",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5004224,
+          49.4843941
+        ]
+      },
+      "id": "way/1190615032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1228324734",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "15",
+        "addr:postcode": "68163",
+        "addr:street": "Rheinpromenade",
+        "amenity": "biergarten",
+        "name": "Rheinterrassen",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4616347,
+          49.479127
+        ]
+      },
+      "id": "way/1228324734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1262067702",
+        "addr:postcode": "68163",
+        "amenity": "pub",
+        "check_date:opening_hours": "2024-10-16",
+        "email": "info@billard-cafe.com",
+        "min_age": "16",
+        "name": "Billard-Café Brasserie",
+        "opening_hours": "Mo-Sa 17:00-01:00",
+        "phone": "+49 621 8190986",
+        "website": "http://www.billard-cafe.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4679598,
+          49.4761938
+        ]
+      },
+      "id": "node/1262067702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270706638",
+        "amenity": "biergarten",
+        "name": "Sellweiden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.504114,
+          49.4909809
+        ]
+      },
+      "id": "node/1270706638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311266322",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "9",
+        "addr:postcode": "68169",
+        "addr:street": "Alphornstraße",
+        "air_conditioning": "no",
+        "amenity": "bar",
+        "building": "roof",
+        "building:levels": "1",
+        "building:min_level": "1",
+        "contact:instagram": "kiosk_ma",
+        "email": "post@kiosk.ma",
+        "height": "5",
+        "indoor_seating": "yes",
+        "name": "KIOSK",
+        "opening_hours": "Tu-Th 17:00-23:00; Fr 17:00-01:00; Sa 16:00-01:00; Su 16:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "roof:colour": "#E0F8E0",
+        "roof:levels": "0.5",
+        "roof:shape": "hipped",
+        "smoking": "outside",
+        "website": "https://www.kiosk.ma/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4671444,
+          49.4988444
+        ]
+      },
+      "id": "way/1311266322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1434866953",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "34",
+        "addr:postcode": "68169",
+        "addr:street": "Alphornstraße",
+        "amenity": "bar",
+        "name": "VIP Bar",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4693821,
+          49.5005084
+        ]
+      },
+      "id": "node/1434866953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435468259",
+        "amenity": "nightclub",
+        "min_age": "18",
+        "name": "Lido Palast Table Dance Bar",
+        "opening_hours": "Su-Th 20:00-03:00, Fr,Sa 20:00-05:00",
+        "website": "http://lido-palast.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4681347,
+          49.4920264
+        ]
+      },
+      "id": "node/1435468259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1435468261",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "14",
+        "addr:place": "I2",
+        "addr:postcode": "68159",
+        "amenity": "bar",
+        "name": "Lilly Cafe Bar",
+        "phone": "+49 621 1256864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4679352,
+          49.4919777
+        ]
+      },
+      "id": "node/1435468261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1436461180",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "34",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "amenity": "bar",
+        "name": "De Novo",
+        "outdoor_seating": "no",
+        "smoking": "isolated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4684021,
+          49.5003128
+        ]
+      },
+      "id": "node/1436461180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1450992655",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Bierkist'l.jpg",
+        "last_check": "2018-4",
+        "min_age": "18",
+        "name": "Bierkist'l",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4645637,
+          49.4912195
+        ]
+      },
+      "id": "node/1450992655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497770322",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "16",
+        "addr:place": "O7",
+        "addr:postcode": "68161",
+        "amenity": "bar",
+        "email": "info@brs-gmbh.com",
+        "image": "https://commons.wikimedia.org/wiki/File:VIP_Lounge_Mannheim_O7.jpg",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Vip Lounge",
+        "opening_hours": "Su off; Mo-Th 10:00-01:00, Fr-Sa 10:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 176 30718162",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4736451,
+          49.48441
+        ]
+      },
+      "id": "node/1497770322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534448650",
+        "amenity": "pub",
+        "name": "Rose Pub",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5480753,
+          49.4964159
+        ]
+      },
+      "id": "node/1534448650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535110168",
+        "amenity": "pub",
+        "fax": "+49 621 409703",
+        "last_check": "2016-04-06",
+        "name": "CMS",
+        "opening_hours": "16:00+",
+        "phone": "+49 621 409204",
+        "shop": "kiosk",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4822128,
+          49.4767848
+        ]
+      },
+      "id": "node/1535110168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535110169",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Zur Wüste",
+        "opening_hours": "Su-Th 09:00-24:00; Fr-Sa 09:00-27:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4813733,
+          49.4748793
+        ]
+      },
+      "id": "node/1535110169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1554536281",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "15",
+        "addr:place": "S1",
+        "addr:postcode": "68161",
+        "amenity": "pub",
+        "check_date": "2024-02-25",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Cafe_Vienna_Mannheim_S1.jpg",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Cafe Vienna",
+        "opening_hours": "Tu-Sa 17:00-02:00; Su 17:00-24:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:notes": "yes",
+        "phone": "+49 621 44579537",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4692598,
+          49.4899179
+        ]
+      },
+      "id": "node/1554536281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1554542020",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Gluckerst%C3%BCbl_Mannheim_S1.jpg",
+        "last_check": "2024-10",
+        "name": "Gluckerstübl",
+        "smoking": "dedicated",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4694952,
+          49.4901676
+        ]
+      },
+      "id": "node/1554542020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1565599216",
+        "amenity": "nightclub",
+        "image": "https://commons.wikimedia.org/wiki/File:Tifany_Mannheim_O7.jpg",
+        "name": "Tiffany Disco und Club",
+        "operator": "Tom Esselborn",
+        "phone": "+49 621 154455",
+        "website": "https://tiffany-mannheim.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4720401,
+          49.4848814
+        ]
+      },
+      "id": "node/1565599216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1565919986",
+        "amenity": "bar",
+        "name": "Little Ma",
+        "old_name": "Back Star",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4714568,
+          49.484745
+        ]
+      },
+      "id": "node/1565919986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1567004814",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/pages/Kaffee-Abaton/138179252895226",
+        "contact:phone": "+49 621 27353",
+        "image": "https://commons.wikimedia.org/wiki/File:Abaton_Caf%C3%A9-Bar-Lounge.jpg",
+        "indoor_seating": "yes",
+        "last_check": "2020-04-27",
+        "man_made": "surveillance",
+        "min_age": "18",
+        "name": "Abaton Café-Bar-Lounge",
+        "opening_hours": "Mo-Th 09:00-02:00, Fr-Sa 09:00-03:00, Su 12:00-02:00",
+        "outdoor_seating": "yes",
+        "smoking": "separated",
+        "surveillance": "indoor",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4729542,
+          49.4839265
+        ]
+      },
+      "id": "node/1567004814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1568035450",
+        "amenity": "nightclub",
+        "name": "Bulalbo",
+        "note": "brothel",
+        "old_name": "Broadway Bar",
+        "opening_hours": "11:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4685267,
+          49.4926491
+        ]
+      },
+      "id": "node/1568035450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1568035463",
+        "amenity": "pub",
+        "lastcheck": "2024-08",
+        "name": "Kazzwoo Cafe Bar",
+        "opening_hours": "Su-Mo, We-Th 17:00-01:30; Fr-Sa 18:00-02:00",
+        "phone": "+49 621 44580776",
+        "toilets:wheelchair": "no",
+        "website": "https://kazzwoo.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4688132,
+          49.4929481
+        ]
+      },
+      "id": "node/1568035463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1568954501",
+        "amenity": "pub",
+        "lastcheck": "2024-10",
+        "name": "MGM 24h open",
+        "opening_hours": "24/7",
+        "operator": "Mehmet Öztürk",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4678687,
+          49.4921643
+        ]
+      },
+      "id": "node/1568954501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573707400",
+        "amenity": "nightclub",
+        "last_check": "2018-04",
+        "min_age": "18",
+        "name": "Dallas Bar",
+        "opening_hours": "Mo-Fr 13:00-24:00; Sa 14:00-24:00; Su 16:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4723972,
+          49.4918618
+        ]
+      },
+      "id": "node/1573707400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573707406",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "16",
+        "addr:place": "U3",
+        "addr:postcode": "68161",
+        "amenity": "bar",
+        "drink:absinthe": "yes",
+        "internet_access": "wlan",
+        "name": "Kombinat",
+        "old_name": "Zum Teufel",
+        "opening_hours": "Mo-Th 17:00-03:00, Fr-Sa 17:00-05:00, Su 17:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 174 9443506",
+        "smoking": "outside",
+        "start_date": "2016-06-03",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kombinat-mannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4727402,
+          49.4922395
+        ]
+      },
+      "id": "node/1573707406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573707409",
+        "amenity": "bar",
+        "image": "https://commons.wikimedia.org/wiki/File:Cafe_Nobile_Mannheim_U4.jpg",
+        "last_check": "2016-05",
+        "name": "Cafe Nobile",
+        "old_name": "Cafe Kismet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4730709,
+          49.4920572
+        ]
+      },
+      "id": "node/1573707409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575181350",
+        "amenity": "nightclub",
+        "check_date": "2023-10-03",
+        "name": "Deluxe Lila Lounge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.469134,
+          49.4911788
+        ]
+      },
+      "id": "node/1575181350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1581280350",
+        "amenity": "pub",
+        "name": "Euro Cafe",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5259585,
+          49.4354965
+        ]
+      },
+      "id": "node/1581280350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1581527713",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Schindeldach_Mannheim-Rheinau.jpg",
+        "min_age": "18",
+        "name": "Schindeldach",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.528815,
+          49.4312392
+        ]
+      },
+      "id": "node/1581527713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1588412695",
+        "addr:street": "Rüdesheimer Straße",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Le Point",
+        "opening_hours": "Mo-Sa 14:00-0:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5069699,
+          49.5018246
+        ]
+      },
+      "id": "node/1588412695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1588734269",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Zur_Vorstadt_Mannheim-K%C3%A4fertal.jpg",
+        "min_age": "18",
+        "name": "Zur Vorstadt",
+        "opening_hours": "Mo 17:00+; Tu-Su 10:00-14:00,17:00+",
+        "phone": "+49 621 739235",
+        "smoking": "dedicated",
+        "website": "http://www.zur-vorstadt.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5124889,
+          49.5082952
+        ]
+      },
+      "id": "node/1588734269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1610788831",
+        "amenity": "pub",
+        "name": "Café Bistro Sportbar Kod Brozok",
+        "opening_hours": "Tu-Su 15:00-24:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.471417,
+          49.4976976
+        ]
+      },
+      "id": "node/1610788831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612730769",
+        "amenity": "pub",
+        "last_check": "2024-04",
+        "name": "Cafe Marathon",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4692733,
+          49.4983933
+        ]
+      },
+      "id": "node/1612730769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624366759",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "55",
+        "addr:street": "Ulmenweg",
+        "amenity": "bar",
+        "name": "GeZet",
+        "website": "https://www.ulmenweg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4933646,
+          49.5081329
+        ]
+      },
+      "id": "node/1624366759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631842513",
+        "addr:housenumber": "4",
+        "addr:place": "Q5",
+        "addr:postcode": "68161",
+        "amenity": "bar",
+        "contact:facebook": "barriosmannheim",
+        "contact:instagram": "barrios_mannheim",
+        "email": "info@barriosmannheim.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Barrios_Mannheim_Q5.jpg",
+        "name": "Barrios Cocktail Lounge Restaurant",
+        "opening_hours": "Mo-Th 17:00-01:00; Fr-Sa 17:00-03:00",
+        "phone": "+49 621 1781356",
+        "smoking": "separated",
+        "website": "http://www.barriosmannheim.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4706006,
+          49.4874823
+        ]
+      },
+      "id": "node/1631842513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1632578919",
+        "amenity": "nightclub",
+        "name": "Das Zimmer",
+        "website": "https://www.daszimmer.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4709903,
+          49.4872235
+        ]
+      },
+      "id": "node/1632578919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1637057651",
+        "amenity": "biergarten",
+        "name": "Am unteren Luisenpark",
+        "opening_hours": "24/7",
+        "smoking": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4863416,
+          49.4862831
+        ]
+      },
+      "id": "node/1637057651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642768548",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Bistro Singidunum",
+        "opening_hours": "Mo-Sa 16:00-1:00",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4699729,
+          49.4873803
+        ]
+      },
+      "id": "node/1642768548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651952580",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "6",
+        "addr:postcode": "68169",
+        "addr:street": "Langstraße",
+        "amenity": "pub",
+        "disused:amenity": "pub",
+        "name": "La Posada",
+        "opening_hours": "closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4715746,
+          49.4968507
+        ]
+      },
+      "id": "node/1651952580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654039143",
+        "amenity": "bar",
+        "dog": "no",
+        "name": "Cafe Bar Tongfa",
+        "opening_hours": "10:00+",
+        "opening_hours:covid19": "closed",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 825705",
+        "smoking": "no",
+        "website": "http://www.cafe-bar-tongfa.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Eingang ok, WC nicht überprüft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4805367,
+          49.4568316
+        ]
+      },
+      "id": "node/1654039143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656889315",
+        "amenity": "pub",
+        "name": "SnookerWorld",
+        "sport": "billiards",
+        "website": "http://www.snookerworld-mannheim.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5197448,
+          49.5094779
+        ]
+      },
+      "id": "node/1656889315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1670582500",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/cafemanhattan.mannheim",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "last_check": "2016-04-13",
+        "min_age": "18",
+        "name": "Café Manhattan",
+        "opening_hours": "Mo-Fr 09:00-02:00, Sa,Su 09:00-05:00",
+        "phone": "+49 621 43857137",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4758779,
+          49.4799343
+        ]
+      },
+      "id": "node/1670582500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759474251",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Catweazle_Mannheim-Neckarau.jpg",
+        "name": "Catweazle",
+        "opening_hours": "Mo-Th 15:00-24:00, Fr,Sa 15:00-04:00, PH,Su 15:00-04:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4835309,
+          49.4541054
+        ]
+      },
+      "id": "node/1759474251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802587407",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "68219",
+        "addr:street": "Dänischer Tisch",
+        "amenity": "pub",
+        "name": "Höpfner Treff",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5235352,
+          49.4361861
+        ]
+      },
+      "id": "node/1802587407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858955086",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Dragi%27s_Hot_%26_Cool_Drinks_Feudenheim.jpg",
+        "lastcheck": "2021-05",
+        "name": "Dragi's Hot & Cool Drinks",
+        "opening_hours": "Mo-Fr 17:00-24:00",
+        "operator": "Dragica Blazanovic",
+        "phone": "+49 621 82729968",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5266458,
+          49.4876255
+        ]
+      },
+      "id": "node/1858955086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912025910",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/CocoonShisha/",
+        "indoor_seating": "yes",
+        "last_check": "2020-04-27",
+        "name": "Cocoon Shisha Lounge",
+        "old_name2": "de stil.",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4667253,
+          49.4864242
+        ]
+      },
+      "id": "node/1912025910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912964222",
+        "amenity": "bar",
+        "check_date:opening_hours": "2024-10-02",
+        "image": "https://commons.wikimedia.org/wiki/File:Shooter_Stars_Mannheim_M4.jpg",
+        "man_made": "surveillance",
+        "min_age": "18",
+        "name": "Shooter Stars",
+        "old_name": "Stonehenge",
+        "opening_hours": "Mo-Sa 20:00-24:00+",
+        "surveillance": "indoor",
+        "update": "Nov 2014",
+        "website": "https://www.shooterstars.de/mannheim/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676924,
+          49.4845855
+        ]
+      },
+      "id": "node/1912964222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1950184436",
+        "amenity": "pub",
+        "name": "Bierwirtschaft Blasebalg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5219557,
+          49.4350893
+        ]
+      },
+      "id": "node/1950184436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1984955228",
+        "amenity": "pub",
+        "name": "Kleingärtner-Treff",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5096452,
+          49.4964318
+        ]
+      },
+      "id": "node/1984955228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012046198",
+        "amenity": "nightclub",
+        "name": "Ezgi Türkü Evi",
+        "opening_hours": "Su-Th 16:00-01:00, Fr-Sa 16:00-05:00",
+        "operator": "Sinan Sanmaz",
+        "phone": "+49 171 3480604",
+        "website": "http://www.ezgitürküevi.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4730223,
+          49.4838992
+        ]
+      },
+      "id": "node/2012046198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2013350776",
+        "amenity": "nightclub",
+        "contact:facebook": "http://de-de.facebook.com/cageclub.mannheim",
+        "min_age": "18",
+        "name": "Chaplin",
+        "note": "scheint geschlossen, letzter Facebookeintrag von 2013",
+        "opening_hours": "Su-Th 20:00-03:00, Fr-Sa 20:00-07:00",
+        "phone": "+49 171 2636969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4732292,
+          49.4835815
+        ]
+      },
+      "id": "node/2013350776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2037313972",
+        "amenity": "pub",
+        "check_date": "2023-08-27",
+        "last_check": "2016-04-06",
+        "min_age": "18",
+        "name": "Sindbads Shisha Lounge",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4840763,
+          49.4753485
+        ]
+      },
+      "id": "node/2037313972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2037827642",
+        "amenity": "bar",
+        "last_check": "2018-05",
+        "name": "Cafe NoName"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4603896,
+          49.4920099
+        ]
+      },
+      "id": "node/2037827642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2039564739",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Cafe-Bar-Europe-848015978587880/",
+        "image": "https://commons.wikimedia.org/wiki/File:Cafe_Bar_Europe.jpg",
+        "last_check": "2018-4",
+        "name": "Cafe Bar Europe",
+        "old_name": "Cafe Mannheim",
+        "opening_hours": "Su-Th 09:00-03:00, Fr-Sa 09:00-05:00",
+        "phone": "+49 621 40180731",
+        "start_date": "2015-01-16",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4645948,
+          49.4910813
+        ]
+      },
+      "id": "node/2039564739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041525580",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Pinte",
+        "opening_hours": "Mo-Fr 11:00+; Sa, Su 17:00+",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4653274,
+          49.4909293
+        ]
+      },
+      "id": "node/2041525580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2041587918",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Eurocafe_Gesch%C3%A4fte_Mannheim_G3.jpg",
+        "last_check": "2024-10",
+        "name": "Monte Christo",
+        "old_name": "Eurocafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4659853,
+          49.4901281
+        ]
+      },
+      "id": "node/2041587918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2050990410",
+        "amenity": "bar",
+        "check_date": "2023-10-22",
+        "min_age": "18",
+        "name": "Temple-orient-Lounge",
+        "opening_hours": "Su-Th 18:00-01:00, Fr-Sa 18:00-03:00",
+        "smoking": "yes",
+        "website": "http://www.temple-ma.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470998,
+          49.4882065
+        ]
+      },
+      "id": "node/2050990410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051791317",
+        "amenity": "bar",
+        "check_date": "2023-11-01",
+        "email": "info@eventlocation2.de",
+        "fax": "+49 621 3974269",
+        "internet_access": "wlan",
+        "lgbtq": "welcome",
+        "name": "Bar2",
+        "opening_hours": "Mo-Th 18:00-0:00, Fr 18:00-03:00, Sa 18:00-03:00, Su 16:00-23:00",
+        "opening_hours:covid19": "closed",
+        "operator": "Heiko Deutscher",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 3974270",
+        "website": "https://www.bar2mannheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.475629,
+          49.4889687
+        ]
+      },
+      "id": "node/2051791317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052498765",
+        "amenity": "pub",
+        "brewery": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Sickinger",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4731868,
+          49.4890709
+        ]
+      },
+      "id": "node/2052498765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052498791",
+        "addr:housenumber": "14",
+        "addr:street": "T6",
+        "amenity": "nightclub",
+        "contact:facebook": "https://www.facebook.com/discozwei",
+        "contact:instagram": "disco_zwei",
+        "contact:youtube": "https://m.youtube.com/channel/UClDtJur__36cPHfHLVotYog/",
+        "description": "Spenden:\nhttps://buymeacoffee.com/discozwei\n\nSoundcloud: \nhttps://m.soundcloud.com/discozwei\n\nMixCloud (Stream):\nhttps://www.mixcloud.com/live/discozwei/",
+        "email": "info@disco-zwei.de",
+        "lgbtq": "welcome",
+        "name": "Disco ZWEI",
+        "opening_hours": "\"usually fr sa program, but not always\"",
+        "operator": "Achim Steck",
+        "website": "http://www.disco-zwei.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.474629,
+          49.4893086
+        ]
+      },
+      "id": "node/2052498791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054131046",
+        "amenity": "pub",
+        "check_date:opening_hours": "2023-01-08",
+        "min_age": "18",
+        "name": "Cafe Konak",
+        "opening_hours:signed": "no",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4701254,
+          49.4902406
+        ]
+      },
+      "id": "node/2054131046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054131054",
+        "amenity": "pub",
+        "check_date": "2025-04-08",
+        "name": "Metropol Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4709099,
+          49.4908081
+        ]
+      },
+      "id": "node/2054131054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054131057",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Prince Palast",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708785,
+          49.4905072
+        ]
+      },
+      "id": "node/2054131057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054131061",
+        "addr:housenumber": "6",
+        "addr:place": "T2",
+        "amenity": "pub",
+        "check_date": "2025-01-28",
+        "disused:name": "Samanta",
+        "name": "Stg Afro Lounge Mannheim",
+        "opening_hours": "Mo-Th 14:00-02:00; Fr-Sa 14:00-05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4703368,
+          49.4907941
+        ]
+      },
+      "id": "node/2054131061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054131062",
+        "amenity": "pub",
+        "brewery": "no",
+        "min_age": "21",
+        "name": "Texas Cafe",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "phone": "+49 621 40170833",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4706489,
+          49.4909175
+        ]
+      },
+      "id": "node/2054131062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2061273855",
+        "amenity": "bar",
+        "check_date": "2023-09-19",
+        "name": "Afroo Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4732513,
+          49.4900344
+        ]
+      },
+      "id": "node/2061273855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068643918",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Uniclub_Mannheim_L4.jpg",
+        "name": "Uni-Club",
+        "phone": "+49 621 155214",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4668608,
+          49.4836889
+        ]
+      },
+      "id": "node/2068643918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2071247464",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "13",
+        "addr:place": "Q2",
+        "addr:postcode": "68161",
+        "amenity": "pub",
+        "check_date": "2024-02-21",
+        "contact:email": "robert_destille@yahoo.de",
+        "contact:facebook": "http://facebook.com/groups/219447014734077",
+        "contact:phone": "+49 621 1814567",
+        "contact:website": "http://destille-nr13.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Destille_Nr._13.jpg",
+        "last_check": "2016-04-15",
+        "min_age": "18",
+        "name": "Destille Nr. 13",
+        "opening_hours": "Mo-Th 11:00-02:00; Fr-Sa 11:00-03:00; Su 11:00-02:00",
+        "operator": "Robert Wittenzellner",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4690114,
+          49.4884518
+        ]
+      },
+      "id": "node/2071247464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2075866347",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Goldene_Gerste_Mannheim_F2.jpg",
+        "indoor_seating": "yes",
+        "min_age": "18",
+        "name": "Goldene Gerste",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.465405,
+          49.4892465
+        ]
+      },
+      "id": "node/2075866347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2076690247",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/BEBEK.MANNHEIM/",
+        "image": "https://commons.wikimedia.org/wiki/File:Le_carr%C3%A9_Mannheim_F4.jpg",
+        "last_check": "2018-5",
+        "min_age": "18",
+        "name": "Bebek",
+        "old_name": "Le carré",
+        "smoking": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Höhe der Stufe am Eingang 8 cm zweiter Stock nur über Treppe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4640682,
+          49.4895618
+        ]
+      },
+      "id": "node/2076690247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082988331",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "K4",
+        "addr:postcode": "68159",
+        "amenity": "bar",
+        "name": "Blessed Cocktail Bar",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4670514,
+          49.4925115
+        ]
+      },
+      "id": "node/2082988331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2144035322",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68169",
+        "addr:street": "Lupinenstraße",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "min_age": "18",
+        "name": "Pelo Café",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4611488,
+          49.5029344
+        ]
+      },
+      "id": "node/2144035322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2191018439",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "19",
+        "addr:postcode": "68161",
+        "addr:street": "Berliner Straße",
+        "amenity": "bar",
+        "contact:instagram": "https://www.instagram.com/salute.mannheim",
+        "name": "Weinbar Salute",
+        "opening_hours": "Tu-Sa 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4783373,
+          49.4872402
+        ]
+      },
+      "id": "node/2191018439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195437267",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Coruna",
+        "old_name": "Shisha Bar",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470999,
+          49.4970422
+        ]
+      },
+      "id": "node/2195437267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195494939",
+        "amenity": "pub",
+        "check_date:opening_hours": "2023-09-25",
+        "name": "Musikkneipe Vigo 36",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4691404,
+          49.49765
+        ]
+      },
+      "id": "node/2195494939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195542582",
+        "amenity": "bar",
+        "name": "Middle Street",
+        "old_name": "Palace Aylin Hair & Beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4699358,
+          49.4980023
+        ]
+      },
+      "id": "node/2195542582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197077893",
+        "amenity": "pub",
+        "check_date": "2024-05-08",
+        "min_age": "18",
+        "name": "Cafe Bistro Metropoli",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4657423,
+          49.499253
+        ]
+      },
+      "id": "node/2197077893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197077901",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Deniz Cafe",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4665647,
+          49.4993525
+        ]
+      },
+      "id": "node/2197077901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197118819",
+        "amenity": "pub",
+        "name": "Bistro Monte Carlo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4659287,
+          49.4997359
+        ]
+      },
+      "id": "node/2197118819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197214782",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "Cafe Oriental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4655241,
+          49.4999879
+        ]
+      },
+      "id": "node/2197214782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197548211",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "Café Merlin",
+        "phone": "+49 171 1726413",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4636709,
+          49.5011594
+        ]
+      },
+      "id": "node/2197548211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199249980",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "min_age": "18",
+        "name": "Bistro International",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.462908,
+          49.5016351
+        ]
+      },
+      "id": "node/2199249980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199292605",
+        "addr:floor": "0",
+        "addr:housenumber": "125",
+        "addr:street": "Mittelstraße",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "level": "0",
+        "name": "Bacarbi Cafe",
+        "old_name": "Balkan Döner",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4618183,
+          49.5022968
+        ]
+      },
+      "id": "node/2199292605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2199292608",
+        "addr:floor": "0",
+        "addr:housenumber": "125",
+        "addr:street": "Mittelstraße",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "level": "0",
+        "min_age": "18",
+        "name": "Express Café",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4616778,
+          49.502386
+        ]
+      },
+      "id": "node/2199292608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201238538",
+        "amenity": "bar",
+        "name": "Cafe M. Diamant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.466409,
+          49.4977568
+        ]
+      },
+      "id": "node/2201238538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201390751",
+        "amenity": "bar",
+        "email": "info@salemabar.de",
+        "indoor_seating": "yes",
+        "name": "Salema",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 43763259",
+        "smoking": "yes",
+        "website": "http://www.salemacafebar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4800198,
+          49.4951856
+        ]
+      },
+      "id": "node/2201390751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202049417",
+        "amenity": "pub",
+        "last_check": "2016-04-06",
+        "name": "Fürstenauer Hof",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4842079,
+          49.4766993
+        ]
+      },
+      "id": "node/2202049417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202049525",
+        "amenity": "pub",
+        "last_check": "2016-04-06",
+        "name": "Granny's Oldie Club",
+        "old_name": "bei Lilly",
+        "opening_hours": "Mo-Th 17:00-01:00, Fr 17:00-03:00, Sa 10:00-03:00, Su 10:00-01:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4798188,
+          49.4794303
+        ]
+      },
+      "id": "node/2202049525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202862406",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Why Not",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa 11:00-25:00",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4812263,
+          49.4755244
+        ]
+      },
+      "id": "node/2202862406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2202862409",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Magic",
+        "opening_hours": "Su-Th 14:00-01:00, Fr 14:00-03:00, Sa 12:00-03:00",
+        "operator": "Danuta Jud",
+        "phone": "+49 621 43726417",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4808607,
+          49.4758537
+        ]
+      },
+      "id": "node/2202862409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207888856",
+        "amenity": "pub",
+        "name": "Coffee Mia",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4747493,
+          49.4802551
+        ]
+      },
+      "id": "node/2207888856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2207888861",
+        "amenity": "pub",
+        "check_date": "2025-05-07",
+        "name": "La Bettola",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "sells:alcohol": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4736859,
+          49.4812932
+        ]
+      },
+      "id": "node/2207888861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2211040536",
+        "amenity": "pub",
+        "name": "Zur Reichspost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4467261,
+          49.5456608
+        ]
+      },
+      "id": "node/2211040536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2229461212",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Drei_Mohren_Mannheim-Neckarau.jpg",
+        "min_age": "18",
+        "name": "Drei Mohren",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4906262,
+          49.4525159
+        ]
+      },
+      "id": "node/2229461212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269942623",
+        "amenity": "pub",
+        "name": "Bistro All Stars",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4897019,
+          49.4569769
+        ]
+      },
+      "id": "node/2269942623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270331236",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Treffpunkt",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4893369,
+          49.4549463
+        ]
+      },
+      "id": "node/2270331236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2275805535",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Sunset Treff",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.494551,
+          49.4539564
+        ]
+      },
+      "id": "node/2275805535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2276341811",
+        "amenity": "nightclub",
+        "name": "Bada Bing Musikclub",
+        "old_name": "Mohawk",
+        "phone": "+49 621 32694959",
+        "website": "https://www.badabingmannheim.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.467018,
+          49.5108492
+        ]
+      },
+      "id": "node/2276341811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327662290",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "76",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "amenity": "pub",
+        "name": "Zum Neckarpark",
+        "opening_hours": "Th,Su,Mo 12:00-03:00, Fr,Sa 12:00-05:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4704806,
+          49.5036179
+        ]
+      },
+      "id": "node/2327662290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2330929963",
+        "amenity": "pub",
+        "name": "Felsstübchen",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4868487,
+          49.4648952
+        ]
+      },
+      "id": "node/2330929963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352032664",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5421026,
+          49.4997849
+        ]
+      },
+      "id": "node/2352032664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2371534057",
+        "amenity": "pub",
+        "name": "Bistro Auszeit",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4952108,
+          49.4518648
+        ]
+      },
+      "id": "node/2371534057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2371534124",
+        "amenity": "pub",
+        "name": "Schwarzes Ross",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4948649,
+          49.4529389
+        ]
+      },
+      "id": "node/2371534124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2371654330",
+        "amenity": "pub",
+        "name": "Zur Elisabeth",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4943104,
+          49.451608
+        ]
+      },
+      "id": "node/2371654330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2376258660",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/jennysrheingold",
+        "image": "https://commons.wikimedia.org/wiki/File:Stressfrei_Mannheim-Neckarau.jpg",
+        "min_age": "18",
+        "name": "Stressfrei",
+        "old_name": "Kiosk-Caffe and more",
+        "phone": "+49 176 30304363",
+        "shop": "kiosk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4881386,
+          49.4527206
+        ]
+      },
+      "id": "node/2376258660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2376900410",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Zwillings_Pub_Mannheim-Neckarau.jpg",
+        "min_age": "18",
+        "name": "Zwillings Pub",
+        "opening_hours": "Su-Th 10:00-02:00, Fr-Sa 10:00-03:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4890075,
+          49.4528027
+        ]
+      },
+      "id": "node/2376900410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377668653",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Rheinauer_Bistro_Mannheim-Rheinau.jpg",
+        "name": "Rheinauer Bistro",
+        "old_name": "Nuran´s Brautmoden",
+        "opening_hours": "Su-Th 06:00-03:00, Fr,Sa 06:00-05:00",
+        "phone": "+49 176 65561148",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.525507,
+          49.4354853
+        ]
+      },
+      "id": "node/2377668653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2377690301",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Rheineck_Mannheim-Rheinau.jpg",
+        "name": "Gaststätte Rheineck",
+        "phone": "+49 1522 9188386",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.526857,
+          49.433696
+        ]
+      },
+      "id": "node/2377690301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378684388",
+        "amenity": "pub",
+        "name": "Bar Sport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5231084,
+          49.4367495
+        ]
+      },
+      "id": "node/2378684388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378823983",
+        "amenity": "pub",
+        "name": "Zico bar sky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5242233,
+          49.4361187
+        ]
+      },
+      "id": "node/2378823983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391096436",
+        "amenity": "pub",
+        "name": "Bistro Danu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4647552,
+          49.5037421
+        ]
+      },
+      "id": "node/2391096436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391096438",
+        "amenity": "pub",
+        "name": "Deutsches Eck",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4636645,
+          49.5030697
+        ]
+      },
+      "id": "node/2391096438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391096440",
+        "amenity": "pub",
+        "name": "Cafe Galena",
+        "old_name": "Beste Türkü Bar",
+        "old_name:-2024": "Dejavue cafe",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4711673,
+          49.4981562
+        ]
+      },
+      "id": "node/2391096440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391096443",
+        "amenity": "pub",
+        "name": "Vovoline II",
+        "note": "eh. Pizzaria Mamma Mia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4643679,
+          49.5017925
+        ]
+      },
+      "id": "node/2391096443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2391096445",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "amenity": "pub",
+        "name": "Zum Tivoli",
+        "operator": "Kai Stabler",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4692695,
+          49.499785
+        ]
+      },
+      "id": "node/2391096445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2480845908",
+        "amenity": "bar",
+        "name": "Pionobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4746358,
+          49.4833519
+        ]
+      },
+      "id": "node/2480845908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2498536093",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Cafe Palms",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4764635,
+          49.496116
+        ]
+      },
+      "id": "node/2498536093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499103116",
+        "amenity": "pub",
+        "check_date": "2024-07-08",
+        "image": "https://commons.wikimedia.org/wiki/File:Cafe_Shakespeare_Mannheim-Neckarstadt.jpg",
+        "name": "Cafe Shakespeare",
+        "opening_hours": "09:00-01:00",
+        "phone": "+49 176 86132415",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4747808,
+          49.4968572
+        ]
+      },
+      "id": "node/2499103116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499463841",
+        "amenity": "pub",
+        "email": "info@bistro-alcapone.com",
+        "name": "Bistro Al Capone",
+        "opening_hours": "Su-Th 10:00-02:00, Fr,Sa 10:00-03:00",
+        "phone": "+49 621 772108",
+        "website": "https://bistro-alcapone.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4481211,
+          49.5432172
+        ]
+      },
+      "id": "node/2499463841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519884213",
+        "amenity": "pub",
+        "check_date:opening_hours": "2023-01-08",
+        "image": "https://commons.wikimedia.org/wiki/File:Back_Stage_Rock_Club_Mannheim_S2.jpg",
+        "last_check": "2024-10",
+        "name": "Back Stage Rock Club",
+        "opening_hours:signed": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4696549,
+          49.4901155
+        ]
+      },
+      "id": "node/2519884213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2520687414",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Blumen-Peter-Klause-539405926102944/",
+        "image": "https://commons.wikimedia.org/wiki/File:Blumenpeter_Klause_Mannheim_S4.jpg",
+        "min_age": "18",
+        "name": "Blumenpeter Klause",
+        "phone": "+49 621 43709898",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470269,
+          49.4895534
+        ]
+      },
+      "id": "node/2520687414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2520687422",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Kaminklause_Mannheim_S3.jpg",
+        "name": "Kaminklause",
+        "opening_hours": "Mo-Th 15:00+;Fr-Su 10:00+",
+        "phone": "+49 621 43718200",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4709189,
+          49.4897814
+        ]
+      },
+      "id": "node/2520687422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2521926953",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Me_%26_you_Mannheim_S1.jpg",
+        "name": "me & you",
+        "old_name": "Pilsstube Clou",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4695718,
+          49.4903287
+        ]
+      },
+      "id": "node/2521926953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537571211",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Sportsbar_Nitro_Mannhein_E2.jpg",
+        "min_age": "18",
+        "name": "Sportsbar Nitro",
+        "old_name": "happy bet",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4656641,
+          49.488553
+        ]
+      },
+      "id": "node/2537571211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537617370",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Minnie%27s_Pub_Mannheim_E3.jpg",
+        "min_age": "18",
+        "name": "Minnie's Pub",
+        "opening_hours": "Mo-Fr 11:00-01:00, Sa-Su 17:00-01:00",
+        "operator": "Conchita Minnie",
+        "phone": "+49 621 106312",
+        "smoking": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Höhe der Stufe am Eingang 9 cm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4641366,
+          49.4891017
+        ]
+      },
+      "id": "node/2537617370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2540905318",
+        "amenity": "pub",
+        "name": "Prosit Sports Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4756567,
+          49.4811438
+        ]
+      },
+      "id": "node/2540905318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578658278",
+        "addr:housenumber": "14",
+        "addr:postcode": "68309",
+        "addr:street": "Freiberger Ring",
+        "amenity": "pub",
+        "level": "0",
+        "name": "Habereckl Grill",
+        "note": "Raucherlokal",
+        "operator": "Andreas Pelz",
+        "phone": "+49 621 702325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5389235,
+          49.5101513
+        ]
+      },
+      "id": "node/2578658278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552740",
+        "amenity": "pub",
+        "name": "Cafe Balkanika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4595941,
+          49.4947076
+        ]
+      },
+      "id": "node/2714552740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552743",
+        "amenity": "pub",
+        "name": "Cafe Bistro Melek",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4599159,
+          49.4946159
+        ]
+      },
+      "id": "node/2714552743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552744",
+        "amenity": "pub",
+        "drink:club-mate": "served",
+        "name": "Nelson",
+        "opening_hours": "Mo-Th 18:00-03:00, Fr,Sa 20:00-05:00",
+        "website": "https://cafe-nelson.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4577189,
+          49.4941612
+        ]
+      },
+      "id": "node/2714552744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552745",
+        "amenity": "bar",
+        "email": "info@hagestolzbar.de",
+        "name": "Hagestolz",
+        "opening_hours": "Mo-Sa 18:00+",
+        "website": "http://hagestolzbar.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4580113,
+          49.4940445
+        ]
+      },
+      "id": "node/2714552745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552746",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "4",
+        "addr:postcode": "68159",
+        "addr:street": "Beilstraße",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/TaproomJungbusch",
+        "description": "craft beer bar",
+        "email": "ben@taproomjungbusch.de",
+        "name": "Taproom Jungbusch",
+        "name_old": "Ingos Oldie Kiste",
+        "opening_hours": "Su, Tu-Th 18:00-12:00; Fr-Sa 18:00-02:00",
+        "outdoor_seating": "no",
+        "phone": "+49 621 31958881",
+        "smoking": "outside",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4594354,
+          49.4936287
+        ]
+      },
+      "id": "node/2714552746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552759",
+        "amenity": "pub",
+        "name": "La Grotta",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4595587,
+          49.4946218
+        ]
+      },
+      "id": "node/2714552759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552765",
+        "amenity": "bar",
+        "contact:email": "team@nummer6.info",
+        "contact:facebook": "https://facebook.com/nummer6jungbusch",
+        "contact:phone": "+49 621 43761075",
+        "name": "Nummer 6",
+        "opening_hours": "Su-Th 20:00-02:00; Fr-Sa 20:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4596977,
+          49.4933716
+        ]
+      },
+      "id": "node/2714552765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552766",
+        "amenity": "bar",
+        "last_check": "2018-05",
+        "name": "Onkel Otto Bar",
+        "opening_hours": "Fr, Sa 21:00-03:00",
+        "website": "https://www.onkelottobar.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4595484,
+          49.4934293
+        ]
+      },
+      "id": "node/2714552766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552787",
+        "amenity": "pub",
+        "name": "Zum Busch 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4597268,
+          49.4942356
+        ]
+      },
+      "id": "node/2714552787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552789",
+        "amenity": "bar",
+        "name": "Kiets König",
+        "old_name": "cafga.",
+        "opening_hours": "We,Th 20:00-03:00, Fr-Sa 20:00-04:00",
+        "website": "https://www.kietskoenig.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4586304,
+          49.4937978
+        ]
+      },
+      "id": "node/2714552789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715180844",
+        "amenity": "pub",
+        "name": "Cafe Memati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4570477,
+          49.4931114
+        ]
+      },
+      "id": "node/2715180844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715180848",
+        "amenity": "pub",
+        "name": "Le Palme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4572512,
+          49.4940511
+        ]
+      },
+      "id": "node/2715180848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715180854",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "25a",
+        "addr:postcode": "68159",
+        "addr:street": "Luisenring",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/monomannheim/",
+        "name": "Mono",
+        "opening_hours": "Th 20:00-01:00, Fr-Sa 20:00-04:00",
+        "phone": "+49 176 80176988",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4602134,
+          49.493346
+        ]
+      },
+      "id": "node/2715180854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715180888",
+        "addr:postcode": "68159",
+        "amenity": "bar",
+        "name": "Gatsby Jungbuschbar",
+        "name:de": "Dankbar",
+        "name:en": "Dankbar",
+        "opening_hours": "We-Th 14:00-23:00; Fr-Sa 14:00-01:00",
+        "phone": "+49 163 4773256",
+        "website": "http://www.dankbar-mannheim.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4578423,
+          49.4938055
+        ]
+      },
+      "id": "node/2715180888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2715226443",
+        "amenity": "pub",
+        "brewery": "yes;various",
+        "email": "ingo-zielske@web.de",
+        "name": "Blau",
+        "opening_hours": "We-Sa 20:00-03:00",
+        "operator": "Ingo Zielske",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 153271",
+        "website": "http://www.blau-jungbusch.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4588562,
+          49.4937092
+        ]
+      },
+      "id": "node/2715226443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716767461",
+        "amenity": "pub",
+        "name": "Cafe Black Jack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4592964,
+          49.4945413
+        ]
+      },
+      "id": "node/2716767461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716767462",
+        "amenity": "pub",
+        "name": "Cafe Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4582245,
+          49.4947324
+        ]
+      },
+      "id": "node/2716767462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716767475",
+        "amenity": "pub",
+        "name": "Marina",
+        "old_name": "Bistro Reni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4581849,
+          49.4958046
+        ]
+      },
+      "id": "node/2716767475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2733805556",
+        "amenity": "pub",
+        "name": "Bistro Double M",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5458269,
+          49.496958
+        ]
+      },
+      "id": "node/2733805556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741615278",
+        "amenity": "pub",
+        "name": "Jägerhaus",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5302954,
+          49.489405
+        ]
+      },
+      "id": "node/2741615278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2768046547",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Vanilla_Pub.jpg",
+        "man_made": "surveillance",
+        "name": "Vanilla Pub",
+        "old_name": "Chez Gilberts",
+        "smoking": "yes",
+        "surveillance": "indoor",
+        "update": "Nov 2014",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708187,
+          49.4815357
+        ]
+      },
+      "id": "node/2768046547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2768046563",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:K%C3%A4pt%27n_St%C3%B6rtebecker.jpg",
+        "name": "Käpt'n Störtebecker",
+        "opening_hours": "Su-Th 18:00-02:00, Sa 18:00-03:00",
+        "update": "Nov 2014",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4705327,
+          49.4816481
+        ]
+      },
+      "id": "node/2768046563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2768046691",
+        "amenity": "bar",
+        "name": "Saftladen & Co.",
+        "operator": "Laib & Leben",
+        "phone": "+49 621 44596710",
+        "website": "http://saftladenund.co/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4716678,
+          49.481973
+        ]
+      },
+      "id": "node/2768046691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2792029374",
+        "amenity": "bar",
+        "email": "info@cafebar-mexx.de",
+        "name": "Cafebar MEXX",
+        "opening_hours": "Su-Th 12:00-24:00;Fr-Sa 12:00-03:00",
+        "phone": "+49 175 5943303",
+        "website": "http://cafebar-mexx.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4873071,
+          49.504778
+        ]
+      },
+      "id": "node/2792029374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2792029380",
+        "amenity": "pub",
+        "name": "Die kleine Kneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4879363,
+          49.5082794
+        ]
+      },
+      "id": "node/2792029380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2797998026",
+        "amenity": "pub",
+        "name": "Dostlar Cafe.",
+        "old_name": "Sportsbar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4949039,
+          49.5001286
+        ]
+      },
+      "id": "node/2797998026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810443109",
+        "amenity": "pub",
+        "last_check": "2018-05",
+        "name": "O'bar",
+        "old_name": "La Stella Agnieszka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4906525,
+          49.459421
+        ]
+      },
+      "id": "node/2810443109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2812686707",
+        "amenity": "pub",
+        "last_check": "2018-05",
+        "name": "Zum weißen Hirsch",
+        "opening_hours": "Mo-Fr, Su 11:00-14:00, 17:00+; Sa 17:00+; Tu off",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4869275,
+          49.4570539
+        ]
+      },
+      "id": "node/2812686707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2824120867",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "82",
+        "addr:postcode": "68239",
+        "addr:street": "Seckenheimer Hauptstraße",
+        "amenity": "pub",
+        "check_date": "2024-11-04",
+        "indoor_seating": "yes",
+        "name": "Cafe Bistro Ariston",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5646071,
+          49.4668394
+        ]
+      },
+      "id": "node/2824120867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2837217848",
+        "addr:housenumber": "87a",
+        "addr:street": "Seckenheimer Hauptstraße",
+        "amenity": "pub",
+        "check_date": "2024-11-04",
+        "level": "0",
+        "name": "2Ways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566065,
+          49.4640407
+        ]
+      },
+      "id": "node/2837217848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2938493560",
+        "amenity": "nightclub",
+        "contact:facebook": "https://www.facebook.com/Club-Lounge-VOYAGE-191583504218921/",
+        "email": "club-voyage@gmx.de",
+        "name": "Club-Lounge Voyage",
+        "opening_hours": "Fr-Sa 20:00-05:00",
+        "phone": "+49 621 49601836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5749017,
+          49.447193
+        ]
+      },
+      "id": "node/2938493560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2940128650",
+        "amenity": "pub",
+        "check_date": "2024-10-22",
+        "name": "Pfälzer Fritz",
+        "opening_hours": "Su-Th 17:30-24:00;Fr-Sa 18:00-03:00",
+        "sells:alcohol": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5726381,
+          49.4388889
+        ]
+      },
+      "id": "node/2940128650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941442908",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "27",
+        "addr:postcode": "68229",
+        "addr:street": "Neudorfstraße",
+        "amenity": "pub",
+        "name": "Hookahs Mannheim",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5765792,
+          49.4387113
+        ]
+      },
+      "id": "node/2941442908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2966093422",
+        "amenity": "biergarten",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4594475,
+          49.4880071
+        ]
+      },
+      "id": "node/2966093422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973562070",
+        "amenity": "pub",
+        "name": "Zum roten Schaaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5306188,
+          49.488633
+        ]
+      },
+      "id": "node/2973562070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3158017877",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "7",
+        "addr:postcode": "68159",
+        "addr:street": "Rheinvorlandstraße",
+        "amenity": "bar",
+        "name": "Hotel Speicher7",
+        "opening_hours": "Mo-Th 16:00-01:00, Fr 04:00-02:00, Sa 12:00-02:00, Su 12:00-00:00",
+        "operator": "Jürgen Tekath",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4542281,
+          49.4849703
+        ]
+      },
+      "id": "node/3158017877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208553479",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Die_Media_Profis_Mannheim_N4.jpg",
+        "last_check": "2020-04-27",
+        "name": "Sportsbar",
+        "old_name1": "Die Media Profis",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4679412,
+          49.4848559
+        ]
+      },
+      "id": "node/3208553479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208553488",
+        "amenity": "nightclub",
+        "name": "SIN",
+        "old_name": "KOI Club",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4682952,
+          49.4849577
+        ]
+      },
+      "id": "node/3208553488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224468788",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/barockmannheim",
+        "dog": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:Barock_Coffee_%26_Hookah_Mannheim_N3.jpg",
+        "min_age": "18",
+        "name": "Barock Coffee & Hookah",
+        "opening_hours": "Su-Th 12:00-02:00, Fr,Sa 12:00-03:00",
+        "phone": "+49 176 66899096",
+        "wheelchair": "limited",
+        "wheelchair:description": "Stufe am Eingang 12 cm hoch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4666536,
+          49.485566
+        ]
+      },
+      "id": "node/3224468788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248853263",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Menonly_Mannheim_B7.jpg",
+        "last_check": "2020-04-27",
+        "lgbtq": "primary",
+        "lgbtq:men": "only",
+        "min_age": "18",
+        "name": "Men Only",
+        "note": "habe mal aus dem Namen das gay=only gemacht",
+        "old_name": "Thingstätte",
+        "opening_hours": "Tu-Th 18:00-01:00, Fr-Sa 18:00-03:00",
+        "phone": "+49 621 43752067",
+        "smoking": "yes",
+        "website": "http://menonly1.wix.com/menonly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4570629,
+          49.4897024
+        ]
+      },
+      "id": "node/3248853263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3261295194",
+        "amenity": "bar",
+        "contact:facebook": "https://facebook.com/PrestigeLoungeMa",
+        "contact:phone": "+49 176 62620026",
+        "last_check": "2020-04-27",
+        "name": "Prestige Lounge",
+        "old_name": "Café Marrakesch",
+        "opening_hours": "Mo-Su 11:00-01:00; Fr-Sa 11:00-03:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4644954,
+          49.488262
+        ]
+      },
+      "id": "node/3261295194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422077725",
+        "addr:postcode": "68167",
+        "amenity": "pub",
+        "check_date:opening_hours": "2024-10-21",
+        "dog": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:Bensheimer_Hof_Mannheim-Wohlgelegen.jpg",
+        "min_age": "18",
+        "name": "Bensheimer Hof",
+        "opening_hours:signed": "no",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4924949,
+          49.5001167
+        ]
+      },
+      "id": "node/3422077725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3429682455",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/pages/Bistro-kleine-Kaserne/216001118485390",
+        "image": "https://commons.wikimedia.org/wiki/File:Bistro_kleine_Kaserne_Mannheim-Wohlgelegen.jpg",
+        "name": "Bistro kleine Kaserne",
+        "opening_hours": "Mo-Su 10:00-01:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4920789,
+          49.4998847
+        ]
+      },
+      "id": "node/3429682455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3432918783",
+        "amenity": "pub",
+        "dog": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:Murphy%27s_Law_Mannheim.jpg",
+        "indoor_seating": "yes",
+        "name": "Murphy's Law",
+        "opening_hours": "Mo-Su 11:00-01:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 621 1563925",
+        "smoking": "no",
+        "theme": "irish",
+        "toilets:wheelchair": "no",
+        "website": "http://www.murphyslaw-mannheim.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713571,
+          49.4804661
+        ]
+      },
+      "id": "node/3432918783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3472589281",
+        "amenity": "pub",
+        "name": "White House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.521311,
+          49.5118506
+        ]
+      },
+      "id": "node/3472589281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3483356942",
+        "amenity": "pub",
+        "image": "https://commons.wikimedia.org/wiki/File:Bierecke_Mannheim-K%C3%A4fertal.jpg",
+        "name": "Bierecke",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5119275,
+          49.5091835
+        ]
+      },
+      "id": "node/3483356942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3485734005",
+        "amenity": "pub",
+        "name": "Prinz Friedrich",
+        "opening_hours": "Tu-Su 12:00-22:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5119549,
+          49.5112587
+        ]
+      },
+      "id": "node/3485734005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498423917",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "name": "Red Light Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4611992,
+          49.5029035
+        ]
+      },
+      "id": "node/3498423917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498444286",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "City West",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4621721,
+          49.5020828
+        ]
+      },
+      "id": "node/3498444286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498449093",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "Café Royal",
+        "opening_hours": "09:00-03:00",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4620244,
+          49.5021772
+        ]
+      },
+      "id": "node/3498449093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498454117",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "min_age": "18",
+        "name": "Café International",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4623312,
+          49.5021834
+        ]
+      },
+      "id": "node/3498454117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500322578",
+        "amenity": "pub",
+        "name": "Caf'e Sofia",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4636809,
+          49.5013184
+        ]
+      },
+      "id": "node/3500322578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500334282",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "Kafancia Kod",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4641937,
+          49.5010234
+        ]
+      },
+      "id": "node/3500334282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500351503",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "min_age": "18",
+        "name": "Istanbul Café",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4647059,
+          49.5007192
+        ]
+      },
+      "id": "node/3500351503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500356695",
+        "amenity": "pub",
+        "check_date": "2025-04-12",
+        "name": "D&D Cafe Bar",
+        "old_name": "Hozan Döner",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4648779,
+          49.5005804
+        ]
+      },
+      "id": "node/3500356695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3502270567",
+        "amenity": "pub",
+        "check_date": "2023-08-30",
+        "image": "https://commons.wikimedia.org/wiki/File:Metzgerei_Harry_Lang_Mannheim-Neckarstadt.jpg",
+        "name": "Route 66",
+        "was:name": "Metzgerei Harry Lang",
+        "was:opening_hours": "Mo-Fr 07:30-18:00;Sa 07:00-13:30",
+        "was:phone": "+49 621 34838",
+        "was:shop": "butcher",
+        "was:website": "https://www.fleischer-fachgeschaeft-harry-lang.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.476084,
+          49.4968423
+        ]
+      },
+      "id": "node/3502270567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3690145334",
+        "amenity": "biergarten",
+        "name": "Biergarten La Locanda",
+        "opening_hours": "Mo-Su 11:30-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5123908,
+          49.5379007
+        ]
+      },
+      "id": "node/3690145334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740466683",
+        "addr:housenumber": "3",
+        "addr:postcode": "68159",
+        "addr:street": "H7",
+        "amenity": "bar",
+        "contact:instagram": "sevendays.mannheim",
+        "image": "https://commons.wikimedia.org/wiki/File:Seven_Day's_Shisha_Lounge.jpg",
+        "min_age": "18",
+        "name": "Seven Days Mannheim",
+        "opening_hours": "Su-Th 15:00-01:00; Fr-Sa 15:00-03:00",
+        "phone": "+49 176 47087580",
+        "smoking": "yes",
+        "survey:date": "2016-03",
+        "website": "http://7daysmannheim.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4635872,
+          49.4922868
+        ]
+      },
+      "id": "node/3740466683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844507135",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "9",
+        "addr:place": "K2",
+        "addr:postcode": "68159",
+        "amenity": "bar",
+        "name": "AMARI CAFÉ BAR EVENTS",
+        "old_name": "offeo - Private Musikschule",
+        "was:shop": "music",
+        "website": "https://www.instagram.com/amari.cafebar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4693722,
+          49.492614
+        ]
+      },
+      "id": "node/3844507135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3860640717",
+        "amenity": "pub",
+        "name": "Bistro Treppen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4815792,
+          49.5255547
+        ]
+      },
+      "id": "node/3860640717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3862558057",
+        "amenity": "pub",
+        "name": "Cafe RIMINI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4816188,
+          49.5257405
+        ]
+      },
+      "id": "node/3862558057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4028806581",
+        "amenity": "bar",
+        "name": "Bunny's Thai Bistro",
+        "opening_hours": "Mo-Th 09:00-03:00, Fr,Sa 09:00-05:00, Su 09:00-03:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4704128,
+          49.5037886
+        ]
+      },
+      "id": "node/4028806581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4028806582",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "name": "Cafe Grigori",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676093,
+          49.5005794
+        ]
+      },
+      "id": "node/4028806582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4036306315",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "10",
+        "addr:postcode": "68305",
+        "addr:street": "Kirchwaldstraße",
+        "amenity": "biergarten",
+        "name": "Biergarten der Freilichtbühne Mannheim",
+        "opening_hours": "\"nur während der Vorstellungen, eine Stunde vor Beginn\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4920055,
+          49.5356639
+        ]
+      },
+      "id": "node/4036306315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4067081989",
+        "amenity": "pub",
+        "name": "Bermuda 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.458554,
+          49.4946263
+        ]
+      },
+      "id": "node/4067081989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076256459",
+        "amenity": "nightclub",
+        "contact:facebook": "https://www.facebook.com/Liberty-Lounge-697462203715821/",
+        "contact:phone": "+49 178 8785164",
+        "image": "https://commons.wikimedia.org/wiki/File:Liberty_Lounge.jpg",
+        "name": "Liberty Lounge",
+        "survey:date": "2016-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4639527,
+          49.4906088
+        ]
+      },
+      "id": "node/4076256459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231250106",
+        "amenity": "bar",
+        "image": "https://commons.wikimedia.org/wiki/File:Solo_Mannheim_Mannheim_U4.jpg",
+        "name": "Solo Mannheim",
+        "old_name": "Oldie's Treff",
+        "opening_hours": "Mo-Th 17:00-01:00, Fr 17:00-03:00, Sa 15:00-03:00, Su 15:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 33909000",
+        "smoking": "yes",
+        "website": "http://solomannheim.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4738206,
+          49.4915828
+        ]
+      },
+      "id": "node/4231250106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4318627713",
+        "addr:housenumber": "36",
+        "addr:street": "Obere Riedstraße",
+        "amenity": "biergarten",
+        "name": "Da Giorgio",
+        "operator": "Giorgio Ruta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5129831,
+          49.5132162
+        ]
+      },
+      "id": "node/4318627713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375277066",
+        "amenity": "pub",
+        "name": "Stadt Mannheim",
+        "wheelchair": "no",
+        "wheelchair:description": "Stufen am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4850359,
+          49.5239515
+        ]
+      },
+      "id": "node/4375277066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664421591",
+        "addr:housenumber": "5",
+        "addr:postcode": "68169",
+        "addr:street": "Rheinrottstraße",
+        "amenity": "nightclub",
+        "contact:instagram": "peer23ev",
+        "name": "Peer23",
+        "name:de": "Peer23",
+        "website": "https://peer23.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4565605,
+          49.5104097
+        ]
+      },
+      "id": "node/4664421591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4850961996",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "17a",
+        "addr:postcode": "68159",
+        "addr:street": "Neckarvorlandstraße",
+        "amenity": "bar",
+        "designation": "Bar",
+        "name": "Sieferle & Sailer Bar",
+        "smoking": "no",
+        "website": "http://www.sieferleundsailer.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4641647,
+          49.4954738
+        ]
+      },
+      "id": "node/4850961996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905302292",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Nesth%C3%A4kchen-177260382328332/",
+        "name": "Nesthäkchen",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4505168,
+          49.5449828
+        ]
+      },
+      "id": "node/4905302292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905624457",
+        "amenity": "pub",
+        "name": "Friends"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4581453,
+          49.4936857
+        ]
+      },
+      "id": "node/4905624457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905624461",
+        "amenity": "bar",
+        "name": "Event-Shakers Barschule"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4586067,
+          49.493163
+        ]
+      },
+      "id": "node/4905624461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909210586",
+        "addr:housenumber": "25",
+        "addr:postcode": "68159",
+        "addr:street": "Werftstraße",
+        "amenity": "bar",
+        "contact:facebook": "Lyftohbar",
+        "contact:instagram": "lyftohbar",
+        "name": "Lyftoh Bar",
+        "old_name": "Kurzbar",
+        "opening_hours": "Th 21:00-00:00; Fr-Sa 21:00-05:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4588214,
+          49.4955655
+        ]
+      },
+      "id": "node/4909210586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075153423",
+        "amenity": "pub",
+        "name": "Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.486909,
+          49.5233393
+        ]
+      },
+      "id": "node/5075153423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075206980",
+        "amenity": "pub",
+        "name": "Janja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.479844,
+          49.5275831
+        ]
+      },
+      "id": "node/5075206980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075206983",
+        "amenity": "pub",
+        "name": "Cafe Waldhof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4795731,
+          49.525863
+        ]
+      },
+      "id": "node/5075206983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075206984",
+        "amenity": "bar",
+        "name": "SEM Shisha Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.479207,
+          49.526448
+        ]
+      },
+      "id": "node/5075206984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5085290893",
+        "amenity": "pub",
+        "level": "0",
+        "name": "Marie 14",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4696904,
+          49.5477989
+        ]
+      },
+      "id": "node/5085290893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5085290894",
+        "amenity": "pub",
+        "name": "Bistro Kurtlar Vadisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4699616,
+          49.5478068
+        ]
+      },
+      "id": "node/5085290894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5303814183",
+        "amenity": "bar",
+        "description": "Sportbar",
+        "layer": "1",
+        "level": "1",
+        "name": "Whistle",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "https://www.whistle-mannheim.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4722292,
+          49.4870077
+        ]
+      },
+      "id": "node/5303814183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442243018",
+        "amenity": "nightclub",
+        "contact:facebook": "https://www.facebook.com/Ishtar-Babylon-Mannheim-1444964882390551/?hc_ref=ARTGHVeZcwvJRtRoIx0q94YA3dTPTc_69u4LJZWAjeL98TtxqaIG6eFPK58-0JqhKGA",
+        "name": "Ishtar Babylon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4681632,
+          49.5172606
+        ]
+      },
+      "id": "node/5442243018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5901186870",
+        "amenity": "pub",
+        "check_date": "2024-02-05",
+        "name": "Schiff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4675551,
+          49.4912395
+        ]
+      },
+      "id": "node/5901186870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6308044093",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "68",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "amenity": "bar",
+        "name": "kaprowbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4578694,
+          49.4956715
+        ]
+      },
+      "id": "node/6308044093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6509744822",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:place": "T1",
+        "addr:postcode": "68161",
+        "amenity": "nightclub",
+        "check_date": "2023-09-05",
+        "name": "One",
+        "opening_hours": "Sa 23:00-05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4692112,
+          49.490785
+        ]
+      },
+      "id": "node/6509744822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886934185",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "2",
+        "addr:postcode": "68161",
+        "addr:street": "Rosengartenplatz",
+        "amenity": "bar",
+        "check_date:opening_hours": "2023-06-15",
+        "description": "Music & Bar Mannheim, Jazz-Club",
+        "name": "Ella & Louis",
+        "opening_hours": "Mo,Su,Fr,Sa 19:00-24:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "phone": "+49 621 1568317",
+        "website": "https://ellalouis.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4774638,
+          49.484754
+        ]
+      },
+      "id": "node/6886934185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781257790",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "17",
+        "addr:place": "S4",
+        "addr:postcode": "68161",
+        "amenity": "bar",
+        "name": "Mood",
+        "phone": "+49 621 1569327",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4714666,
+          49.4887245
+        ]
+      },
+      "id": "node/7781257790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7845516424",
+        "addr:street": "Akademiestraße",
+        "amenity": "pub",
+        "delivery": "no",
+        "description": "für Alkoholkranke und Drogenabhängige",
+        "loc_name": "Trinkertreff",
+        "microbrewery": "no",
+        "name": "Café Anker",
+        "operator": "Caritas und Drogenverein",
+        "outdoor_seating": "yes",
+        "short_name": "Anker",
+        "start_date": "2020-08",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4572803,
+          49.4917895
+        ]
+      },
+      "id": "node/7845516424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9357710288",
+        "amenity": "pub",
+        "level": "0",
+        "name": "Spiegelschlössl",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4760936,
+          49.5203201
+        ]
+      },
+      "id": "node/9357710288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10822161041",
+        "amenity": "biergarten",
+        "name": "APERO",
+        "website": "https://www.spinelli-kitchen.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5203628,
+          49.4992956
+        ]
+      },
+      "id": "node/10822161041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10845501077",
+        "amenity": "nightclub",
+        "email": "mails@contra-n.de",
+        "name": "CONTRA`N",
+        "opening_hours": "Fr-Sa 20:00-04:00",
+        "operator": "Claudia Buder",
+        "phone": "+49 621 152429",
+        "website": "http://www.contra-n.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4590006,
+          49.4954572
+        ]
+      },
+      "id": "node/10845501077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11483492069",
+        "addr:housenumber": "12",
+        "addr:postcode": "68159",
+        "addr:street": "G4",
+        "amenity": "bar",
+        "name": "Vintage",
+        "opening_hours": "Mo-Su 17:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4652756,
+          49.4909556
+        ]
+      },
+      "id": "node/11483492069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11849710192",
+        "amenity": "pub",
+        "name": "Zum Neandertal - Die kultige Minikneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4552985,
+          49.485331
+        ]
+      },
+      "id": "node/11849710192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11867325188",
+        "amenity": "pub",
+        "name": "Bistro Route 66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4717263,
+          49.4974097
+        ]
+      },
+      "id": "node/11867325188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873437898",
+        "amenity": "pub",
+        "name": "Valentino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.463901,
+          49.4878946
+        ]
+      },
+      "id": "node/11873437898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11926218002",
+        "access": "private",
+        "amenity": "bar",
+        "name": "Zum Hoiner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4498388,
+          49.5354181
+        ]
+      },
+      "id": "node/11926218002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11981549639",
+        "amenity": "bar",
+        "name": "Luais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4675758,
+          49.4916027
+        ]
+      },
+      "id": "node/11981549639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12047842053",
+        "amenity": "bar",
+        "name": "ALTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4727539,
+          49.4954213
+        ]
+      },
+      "id": "node/12047842053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12114580474",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Euro Cafe",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4664962,
+          49.4993885
+        ]
+      },
+      "id": "node/12114580474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12114580480",
+        "amenity": "pub",
+        "min_age": "18",
+        "name": "Cetin Cafe Bistro",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4665174,
+          49.4995604
+        ]
+      },
+      "id": "node/12114580480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12137134204",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4635255,
+          49.4998363
+        ]
+      },
+      "id": "node/12137134204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12261062295",
+        "amenity": "pub",
+        "name": "Cafe Tristan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4694592,
+          49.4981635
+        ]
+      },
+      "id": "node/12261062295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12264434537",
+        "addr:housenumber": "72",
+        "addr:street": "Mittelstraße",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "name": "Bomba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4656739,
+          49.5000967
+        ]
+      },
+      "id": "node/12264434537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12279379805",
+        "amenity": "bar",
+        "name": "L'Event Lounge & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4705193,
+          49.5017951
+        ]
+      },
+      "id": "node/12279379805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285832652",
+        "amenity": "pub",
+        "name": "Alena Cafe Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4682931,
+          49.5003732
+        ]
+      },
+      "id": "node/12285832652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12320471963",
+        "amenity": "bar",
+        "name": "Candy Drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4721997,
+          49.4982807
+        ]
+      },
+      "id": "node/12320471963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12325730800",
+        "amenity": "pub",
+        "name": "Cafe Vero",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4677104,
+          49.4917499
+        ]
+      },
+      "id": "node/12325730800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12326861049",
+        "amenity": "pub",
+        "name": "Kings Sportcafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4669735,
+          49.4909467
+        ]
+      },
+      "id": "node/12326861049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12343195273",
+        "amenity": "pub",
+        "name": "Schinderhannes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4678063,
+          49.4911396
+        ]
+      },
+      "id": "node/12343195273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12539533095",
+        "amenity": "bar",
+        "check_date": "2025-01-28",
+        "description": "Kein Küche, aber Lieferdienste möglich, Nummern und Speisekarten liegen auf.",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Gasthaus Roter Ochsen",
+        "opening_hours": "Mo-Fr 17:00-23:00; Sa 18:00-24:00; Su off",
+        "operator": "Jeanette De Moss-Vogt",
+        "phone": "+49 621 24752",
+        "website": "https://roter-ochsen-mannheim.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4704034,
+          49.4908711
+        ]
+      },
+      "id": "node/12539533095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12736697874",
+        "amenity": "pub",
+        "name": "Queen's pub",
+        "sells:alcohol": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4739138,
+          49.4811695
+        ]
+      },
+      "id": "node/12736697874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12750588982",
+        "addr:housenumber": "67",
+        "addr:street": "Mittelstraße",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "name": "La Montana",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4653846,
+          49.50008
+        ]
+      },
+      "id": "node/12750588982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12750588983",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "name": "Deja Vu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4623483,
+          49.5019501
+        ]
+      },
+      "id": "node/12750588983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12770823295",
+        "amenity": "nightclub",
+        "contact:email": "info@nobless-club.de",
+        "name": "Nobless Club Thr3e",
+        "phone": "062198194730",
+        "website": "https://nobless-club.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4657219,
+          49.5109195
+        ]
+      },
+      "id": "node/12770823295"
+    }
+  ]
+}

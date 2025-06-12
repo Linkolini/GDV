@@ -1,0 +1,3220 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-31T19:33:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43281300",
+        "amenity": "biergarten",
+        "name": "Kasse des Biergartens",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7631072,
+          49.4167121
+        ]
+      },
+      "id": "way/43281300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43281301",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7637644,
+          49.4172008
+        ]
+      },
+      "id": "way/43281301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93799693",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "2",
+        "addr:postcode": "67655",
+        "addr:street": "Stiftsplatz",
+        "amenity": "pub",
+        "building": "yes",
+        "building:levels": "3",
+        "craft": "brewery",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Brauhaus am Markt",
+        "opening_hours": "Mo-Fr 09:00-01:00, Sa 09:00-02:00, Su 10:00-24:00",
+        "outdoor_seating": "yes",
+        "roof:levels": "1",
+        "smoking": "yes",
+        "website": "https://www.brauhausammarkt-kl.de/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7715077,
+          49.4448916
+        ]
+      },
+      "id": "way/93799693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103399970",
+        "addr:city": "Kaiserslautern",
+        "addr:country": "DE",
+        "addr:housenumber": "78",
+        "addr:postcode": "67655",
+        "addr:street": "Richard-Wagner-Straße",
+        "amenity": "pub",
+        "brewery": "bitburger;karlsberg;brewdog;augustiner;maisel;bayreuther",
+        "building": "yes",
+        "name": "Benderhof",
+        "opening_hours": "Su-Th 16:00-01:00; Fr-Sa 16:00-02:00",
+        "smoking": "yes",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7671495,
+          49.4387209
+        ]
+      },
+      "id": "way/103399970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103400085",
+        "amenity": "pub",
+        "building": "retail",
+        "indoor_seating": "yes",
+        "name": "Zack Zack",
+        "outdoor_seating": "no",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76766,
+          49.4377655
+        ]
+      },
+      "id": "way/103400085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103423053",
+        "addr:city": "Kaiserslautern",
+        "addr:country": "DE",
+        "addr:housenumber": "43",
+        "addr:postcode": "67655",
+        "addr:street": "Glockenstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Glockencafé",
+        "smoking": "isolated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769448,
+          49.4398579
+        ]
+      },
+      "id": "way/103423053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107378314",
+        "addr:city": "Ochsenbusch",
+        "addr:housenumber": "3",
+        "addr:place": "Ochsenbusch",
+        "addr:postcode": "67305",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Campingklause",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0391158,
+          49.538342
+        ]
+      },
+      "id": "way/107378314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113688745",
+        "amenity": "biergarten",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7481442,
+          49.4491991
+        ]
+      },
+      "id": "way/113688745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205188965",
+        "addr:city": "Kaiserslautern",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "67657",
+        "addr:street": "Eselsfürth",
+        "amenity": "pub",
+        "building": "yes",
+        "indoor_seating": "yes",
+        "name": "Irish House",
+        "outdoor_seating": "yes",
+        "website": "https://irishhouse.kunstgriff-event.de/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.822135,
+          49.460226
+        ]
+      },
+      "id": "way/205188965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215658526",
+        "addr:city": "Eisenberg (Pfalz)",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "67304",
+        "addr:street": "Hettenleidelheimer Straße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Pfälzer Hof",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.072183,
+          49.5550687
+        ]
+      },
+      "id": "way/215658526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222627316",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8039172,
+          49.4384075
+        ]
+      },
+      "id": "way/222627316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222628333",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8083845,
+          49.4374997
+        ]
+      },
+      "id": "way/222628333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269333251",
+        "amenity": "pub",
+        "brewery": "Bischoff",
+        "name": "Tennisheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7344284,
+          49.4937134
+        ]
+      },
+      "id": "node/269333251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284790490",
+        "amenity": "biergarten",
+        "name": "Hauswirtschaft Koch",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.400446,
+          49.5386587
+        ]
+      },
+      "id": "way/284790490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319885307",
+        "amenity": "pub",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2888624,
+          49.5415602
+        ]
+      },
+      "id": "node/319885307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321210945",
+        "addr:city": "Altenglan",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "66885",
+        "addr:street": "Moorstraße",
+        "amenity": "pub",
+        "building": "residential",
+        "name": "Karlsbergkeller",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4643544,
+          49.5443835
+        ]
+      },
+      "id": "way/321210945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329301594",
+        "addr:city": "Börrstadt",
+        "addr:housenumber": "1",
+        "addr:postcode": "67725",
+        "addr:street": "Hauptstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Börrstädter Hof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.943352,
+          49.5790255
+        ]
+      },
+      "id": "way/329301594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331064024",
+        "amenity": "pub",
+        "name": "Zur Ulme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4450678,
+          49.5409786
+        ]
+      },
+      "id": "node/331064024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331067375",
+        "amenity": "pub",
+        "name": "Berghof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4425245,
+          49.5363454
+        ]
+      },
+      "id": "node/331067375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/347835063",
+        "amenity": "pub",
+        "name": "Live Bühne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4450189,
+          49.5117757
+        ]
+      },
+      "id": "node/347835063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370875024",
+        "addr:city": "Kirchheimbolanden",
+        "addr:housenumber": "28",
+        "addr:postcode": "67292",
+        "addr:street": "Hauptstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Haidehof",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9873888,
+          49.6743061
+        ]
+      },
+      "id": "way/370875024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380226380",
+        "addr:city": "Bischheim",
+        "addr:housenumber": "4",
+        "addr:postcode": "67294",
+        "addr:street": "Hauptstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Zur alten Schule",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0313672,
+          49.6711055
+        ]
+      },
+      "id": "way/380226380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421995668",
+        "addr:city": "Schönenberg-Kübelberg",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "66901",
+        "addr:street": "Glanstraße",
+        "amenity": "pub",
+        "breakfast": "yes",
+        "building": "yes",
+        "name": "Die Brückenschänke",
+        "operator": "Ursula Mootz-Lang",
+        "phone": "+49 6373 9680",
+        "source": "GPS",
+        "tourism": "guest_house",
+        "website": "https://www.diebrueckenschaenke.de/",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3766326,
+          49.4100126
+        ]
+      },
+      "id": "way/421995668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440181232",
+        "amenity": "biergarten",
+        "building": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4643107,
+          49.5502341
+        ]
+      },
+      "id": "way/440181232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443215523",
+        "amenity": "pub",
+        "building": "service",
+        "name": "Landscheidhütte",
+        "opening_hours": "Mo,We-Fr 10:00-19:00; Su 10:00-18:00",
+        "outdoor_seating": "yes",
+        "tourism": "alpine_hut",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5596878,
+          49.5639179
+        ]
+      },
+      "id": "way/443215523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447145465",
+        "addr:city": "Eßweiler",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "67754",
+        "addr:street": "Schneeweiderhof",
+        "amenity": "pub",
+        "building": "residential",
+        "name": "Gasthaus Jung",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5364531,
+          49.5600357
+        ]
+      },
+      "id": "way/447145465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/486821327",
+        "addr:city": "Morschheim",
+        "addr:housenumber": "20",
+        "addr:postcode": "67294",
+        "addr:street": "Kaiserstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Zur Dorfschänke",
+        "opening_hours": "Mo,Th,Fr 17:00-22:00+; Su 10:00-13:00",
+        "phone": "+49 6352 4897",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0244811,
+          49.6966299
+        ]
+      },
+      "id": "way/486821327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533878405",
+        "addr:city": "Otterberg",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "67697",
+        "addr:street": "Bergstraße",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Uptown thirtyfour",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7673657,
+          49.504199
+        ]
+      },
+      "id": "way/533878405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/543670403",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "19",
+        "addr:postcode": "67657",
+        "addr:street": "Steinstraße",
+        "amenity": "pub",
+        "brewery": "yes",
+        "contact:facebook": "https://www.facebook.com/TheSnugKaiserslautern",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "The Snug Irish Pub",
+        "old_name": "Thursty Nellys",
+        "opening_hours": "Mo-Fr 17:00-01:00, Sa 15:00-02:00, Su 15:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "phone": "+49 631 75005060",
+        "smoking": "outside",
+        "start_date": "2013",
+        "toilets": "yes",
+        "toilets:wheelchair": "limited",
+        "website": "https://snug-kl.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772328,
+          49.4464119
+        ]
+      },
+      "id": "node/543670403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/570033220",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "58",
+        "addr:postcode": "67655",
+        "addr:street": "Rudolf-Breitscheid-Straße",
+        "amenity": "pub",
+        "name": "Bierbaum",
+        "opening_hours": "We-Sa 18:00+; Su,Mo off",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7620596,
+          49.4410431
+        ]
+      },
+      "id": "node/570033220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610260544",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6597317,
+          49.5022015
+        ]
+      },
+      "id": "way/610260544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662572460",
+        "amenity": "pub",
+        "name": "Gaststätte Erbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6684526,
+          49.5777921
+        ]
+      },
+      "id": "node/662572460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666330711",
+        "amenity": "nightclub",
+        "name": "Das Kult Gundersweiler",
+        "website": "https://www.daskult.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7847415,
+          49.593075
+        ]
+      },
+      "id": "node/666330711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671755919",
+        "amenity": "pub",
+        "name": "Olli's Rote Teufel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7766761,
+          49.4431367
+        ]
+      },
+      "id": "node/671755919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671787956",
+        "amenity": "pub",
+        "contact:phone": "+49 631 4151839",
+        "name": "The Real Deal",
+        "opening_hours": "18:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7716812,
+          49.4415031
+        ]
+      },
+      "id": "node/671787956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671787963",
+        "amenity": "pub",
+        "name": "Altes Faß"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7720433,
+          49.442042
+        ]
+      },
+      "id": "node/671787963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671894869",
+        "amenity": "pub",
+        "name": "Alter Sachse",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8213815,
+          49.6303358
+        ]
+      },
+      "id": "node/671894869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671894873",
+        "amenity": "pub",
+        "name": "Worschtküch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8196808,
+          49.6291023
+        ]
+      },
+      "id": "node/671894873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671894880",
+        "amenity": "pub",
+        "name": "Clochard",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8216065,
+          49.6296269
+        ]
+      },
+      "id": "node/671894880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671894899",
+        "amenity": "bar",
+        "name": "Loha",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8198856,
+          49.6306461
+        ]
+      },
+      "id": "node/671894899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674250421",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Marktstubb",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7733591,
+          49.4437713
+        ]
+      },
+      "id": "node/674250421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/676646147",
+        "amenity": "pub",
+        "name": "Gasthaus Born"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457068,
+          49.5669716
+        ]
+      },
+      "id": "node/676646147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/757408562",
+        "amenity": "pub",
+        "name": "Eule",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7128354,
+          49.4790975
+        ]
+      },
+      "id": "node/757408562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778958413",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "34",
+        "addr:postcode": "67663",
+        "addr:street": "Paul-Ehrlich-Straße",
+        "amenity": "pub",
+        "brewery": "Bitburger",
+        "check_date:opening_hours": "2024-10-05",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "name": "Nachbrenner",
+        "opening_hours": "Th 19:00-03:00",
+        "outdoor_seating": "no",
+        "smoking": "separated",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7539784,
+          49.4250901
+        ]
+      },
+      "id": "node/778958413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/801945895",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7340848,
+          49.4393613
+        ]
+      },
+      "id": "node/801945895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/815229912",
+        "amenity": "biergarten",
+        "brewery": "Parkbier",
+        "name": "Waldbiergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7976854,
+          49.4389124
+        ]
+      },
+      "id": "node/815229912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/869239941",
+        "amenity": "biergarten",
+        "name": "Randeckkeller",
+        "opening_hours": "Sa 17:00-24:00; Su 11:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9360976,
+          49.5159967
+        ]
+      },
+      "id": "node/869239941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/902580700",
+        "amenity": "bar",
+        "name": "Zwick's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7732656,
+          49.4465767
+        ]
+      },
+      "id": "node/902580700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1012331726",
+        "alt_name": "Gus+o",
+        "amenity": "pub",
+        "name": "Gusto",
+        "opening_hours": "Mo-Th 20:00-04:00, Fr,Sa 20:00-05:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7699812,
+          49.4451959
+        ]
+      },
+      "id": "node/1012331726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1111539225",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "26",
+        "addr:postcode": "67657",
+        "addr:street": "Steinstraße",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Witches",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7733807,
+          49.446632
+        ]
+      },
+      "id": "node/1111539225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1111539398",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "8",
+        "addr:postcode": "67657",
+        "addr:street": "Martin-Luther-Straße",
+        "amenity": "pub",
+        "name": "Harp Irish pub",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7707906,
+          49.4463521
+        ]
+      },
+      "id": "node/1111539398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112875230",
+        "amenity": "pub",
+        "name": "Weinhaus Stepp",
+        "opening_hours": "Tu-Sa 12:00-14:00,18:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7705189,
+          49.4436968
+        ]
+      },
+      "id": "node/1112875230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112875236",
+        "amenity": "pub",
+        "name": "Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7705965,
+          49.4437655
+        ]
+      },
+      "id": "node/1112875236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179708909",
+        "amenity": "pub",
+        "name": "Bier Eiche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7888173,
+          49.4466669
+        ]
+      },
+      "id": "node/1179708909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1181026347",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "31",
+        "addr:postcode": "67655",
+        "addr:street": "Gaustraße",
+        "amenity": "pub",
+        "description": "Sports Bar",
+        "name": "Puzzles",
+        "opening_hours": "Th 19:00-24:00, Fr,Sa 19:00-02:00, Su 19:00-24:00",
+        "website": "https://puzzlessportsbar.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7766719,
+          49.4471031
+        ]
+      },
+      "id": "node/1181026347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1181162742",
+        "amenity": "pub",
+        "name": "Gleis 1",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.76796,
+          49.4360974
+        ]
+      },
+      "id": "node/1181162742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214664043",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "28",
+        "addr:postcode": "67663",
+        "addr:street": "Zollamtstraße",
+        "amenity": "nightclub",
+        "email": "info@nachtschicht-kaiserslautern.de",
+        "fax": "+49 631 3105789",
+        "level": "1",
+        "name": "Nachtschicht",
+        "opening_hours": "Th-Sa 23:00-05:00",
+        "phone": "+49 631 3105759",
+        "website": "https://nachtschicht-kaiserslautern.de/",
+        "wheelchair": "limited",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7643777,
+          49.4343279
+        ]
+      },
+      "id": "node/1214664043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214664115",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "8",
+        "addr:postcode": "67657",
+        "addr:street": "Martin-Luther-Straße",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Luther",
+        "opening_hours": "Fr 22:00-5:00; Sa 23:00-5:00",
+        "website": "https://www.lutherclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7707516,
+          49.4464498
+        ]
+      },
+      "id": "node/1214664115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214664260",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "8",
+        "addr:postcode": "67657",
+        "addr:street": "Martin-Luther-Straße",
+        "amenity": "pub",
+        "name": "Pflaumenbaum",
+        "opening_hours": "Fr 20:00-05:30, Sa 22:00-06:00",
+        "smoking": "isolated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7707216,
+          49.4465424
+        ]
+      },
+      "id": "node/1214664260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1217317427",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7987437,
+          49.4401301
+        ]
+      },
+      "id": "node/1217317427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241707879",
+        "amenity": "pub",
+        "name": "Grüne Laterne",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7796544,
+          49.4464313
+        ]
+      },
+      "id": "node/1241707879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1279698586",
+        "amenity": "biergarten",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.924154,
+          49.626492
+        ]
+      },
+      "id": "way/1279698586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1288893374",
+        "amenity": "biergarten",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7561219,
+          49.4501999
+        ]
+      },
+      "id": "node/1288893374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1304683596",
+        "amenity": "biergarten",
+        "name": "Globus Restaurant",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7090347,
+          49.440719
+        ]
+      },
+      "id": "way/1304683596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1309456207",
+        "amenity": "biergarten",
+        "outdoor_seating": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0294301,
+          49.5762661
+        ]
+      },
+      "id": "way/1309456207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1324708489",
+        "amenity": "biergarten",
+        "name": "Gasthof Fröhlich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7237958,
+          49.4062272
+        ]
+      },
+      "id": "node/1324708489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389598762",
+        "addr:city": "Kaiserslautern",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "67657",
+        "addr:street": "Rittersberg",
+        "amenity": "pub",
+        "check_date:opening_hours": "2023-05-06",
+        "name": "Hardrock-Cafe",
+        "not:brand:wikidata": "Q918151",
+        "opening_hours": "Mo-Th 18:00-02:00, Fr,Sa 18:00-05:00, Su 18:00-04:00",
+        "outdoor_seating": "yes",
+        "smoking": "isolated",
+        "wheelchair": "yes",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7725486,
+          49.4469299
+        ]
+      },
+      "id": "node/1389598762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1593191079",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Fantreff zum zwölften Mann",
+        "opening_hours": "Mo-Fr 14:00-18:00+; Sa 11:00-18:00+",
+        "outdoor_seating": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7685431,
+          49.436887
+        ]
+      },
+      "id": "node/1593191079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598770135",
+        "amenity": "bar",
+        "name": "La Casa del Habano",
+        "opening_hours:signed": "no",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7706188,
+          49.4446586
+        ]
+      },
+      "id": "node/1598770135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1662746083",
+        "addr:city": "Eisenberg (Pfalz)",
+        "addr:country": "DE",
+        "addr:postcode": "67304",
+        "addr:suburb": "Steinborn",
+        "amenity": "bar",
+        "name": "Bistro Cosmopolitan",
+        "opening_hours": "Tu-Sa 18:00-24:00; Su 11:30-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.041851,
+          49.5532769
+        ]
+      },
+      "id": "node/1662746083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1793453372",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "27",
+        "addr:postcode": "67657",
+        "addr:street": "Steinstraße",
+        "amenity": "pub",
+        "level": "1",
+        "name": "Café Royal",
+        "opening_hours": "We-Sa 18:00+",
+        "smoking": "isolated",
+        "website": "https://www.caferoyal-kl.de/",
+        "wheelchair": "no",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7731089,
+          49.4467412
+        ]
+      },
+      "id": "node/1793453372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797045284",
+        "alt_name": "Club Blvck",
+        "amenity": "nightclub",
+        "check_date:opening_hours": "2024-08-06",
+        "name": "Club Black",
+        "opening_hours:signed": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7619695,
+          49.4411094
+        ]
+      },
+      "id": "node/1797045284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1809007276",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "1",
+        "addr:postcode": "67655",
+        "addr:street": "Klosterstraße",
+        "amenity": "bar",
+        "check_date:opening_hours": "2024-11-24",
+        "name": "Simpel",
+        "opening_hours": "Th-Sa 19:00+",
+        "smoking": "yes",
+        "website": "https://9gg.de/simpel",
+        "wheelchair": "no",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7723329,
+          49.4459995
+        ]
+      },
+      "id": "node/1809007276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1877443723",
+        "amenity": "pub",
+        "name": "Stellwerk 2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8954579,
+          49.4429373
+        ]
+      },
+      "id": "node/1877443723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1881163685",
+        "amenity": "pub",
+        "name": "Billard Cafe Memory",
+        "sport": "billiards",
+        "toilets:wheelchair": "no",
+        "website": "http://www.billardcafe-memory.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7616736,
+          49.4461038
+        ]
+      },
+      "id": "node/1881163685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898457131",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7594639,
+          49.4457003
+        ]
+      },
+      "id": "node/1898457131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936465229",
+        "amenity": "pub",
+        "name": "Carmeleon",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7665201,
+          49.4408993
+        ]
+      },
+      "id": "node/1936465229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936465267",
+        "amenity": "nightclub",
+        "name": "Gold'n Club",
+        "opening_hours": "\"Nach Vereinbarung\"",
+        "website": "https://goldnclub.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7724272,
+          49.4450406
+        ]
+      },
+      "id": "node/1936465267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058382785",
+        "amenity": "pub",
+        "name": "Kääser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6196511,
+          49.4985927
+        ]
+      },
+      "id": "node/2058382785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2058395086",
+        "amenity": "pub",
+        "name": "Irish Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6189593,
+          49.4992928
+        ]
+      },
+      "id": "node/2058395086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2061401306",
+        "addr:city": "Weilerbach",
+        "addr:housenumber": "12",
+        "addr:postcode": "67685",
+        "addr:street": "Hauptstraße",
+        "amenity": "pub",
+        "name": "Zum Ochsen",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6312411,
+          49.4812725
+        ]
+      },
+      "id": "node/2061401306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296235204",
+        "amenity": "pub",
+        "name": "Laternchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7906102,
+          49.4486617
+        ]
+      },
+      "id": "node/2296235204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2310495082",
+        "amenity": "pub",
+        "name": "Zum Salzstein",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7744644,
+          49.4459685
+        ]
+      },
+      "id": "node/2310495082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2343307994",
+        "amenity": "pub",
+        "name": "Vereinsheim FV Kusel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4046698,
+          49.5342889
+        ]
+      },
+      "id": "node/2343307994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352444186",
+        "amenity": "pub",
+        "name": "Stadtkrug",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4014423,
+          49.5392538
+        ]
+      },
+      "id": "node/2352444186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2361328037",
+        "access": "private",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Heimbar",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7486177,
+          49.424593
+        ]
+      },
+      "id": "node/2361328037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386268667",
+        "amenity": "pub",
+        "internet_access": "no",
+        "name": "Bischoff Club Wiesweiler",
+        "website": "https://diebud.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5701539,
+          49.6380487
+        ]
+      },
+      "id": "node/2386268667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476930095",
+        "amenity": "pub",
+        "name": "Walter",
+        "opening_hours": "Tu off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.802081,
+          49.6960128
+        ]
+      },
+      "id": "node/2476930095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2487077260",
+        "amenity": "pub",
+        "name": "Schalander",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4001306,
+          49.5386806
+        ]
+      },
+      "id": "node/2487077260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578225033",
+        "amenity": "pub",
+        "level": "-1",
+        "name": "IntClub",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7546559,
+          49.4249834
+        ]
+      },
+      "id": "node/2578225033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2694950357",
+        "amenity": "pub",
+        "email": "info@moloneys-kl.de",
+        "indoor_seating": "yes",
+        "name": "Moloney's Irish Pub & Wings",
+        "opening_hours": "We,Th,Su 16:00-01:00, Fr,Sa 16:00-03:00",
+        "outdoor_seating": "yes",
+        "website": "https://shawingz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7734547,
+          49.4468434
+        ]
+      },
+      "id": "node/2694950357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2741597374",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "67655",
+        "addr:street": "Marktstraße",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "Schorle Gewitter",
+        "opening_hours": "Tu-Su 18:00-24:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771327,
+          49.4452435
+        ]
+      },
+      "id": "node/2741597374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885291736",
+        "amenity": "pub",
+        "name": "Bierstubb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4025451,
+          49.5380111
+        ]
+      },
+      "id": "node/2885291736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2965780183",
+        "amenity": "nightclub",
+        "level": "1",
+        "name": "Hangover",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr-Sa 11:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768667,
+          49.4435219
+        ]
+      },
+      "id": "node/2965780183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3065153065",
+        "amenity": "pub",
+        "name": "Zum Ilse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.79047,
+          49.4520281
+        ]
+      },
+      "id": "node/3065153065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3297090803",
+        "amenity": "nightclub",
+        "name": "Club Magnat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6800818,
+          49.4314993
+        ]
+      },
+      "id": "node/3297090803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3373787994",
+        "amenity": "pub",
+        "check_date": "2023-10-14",
+        "name": "Kiosk und Trinkhalle Peja",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7558011,
+          49.4432778
+        ]
+      },
+      "id": "node/3373787994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3405948996",
+        "amenity": "pub",
+        "name": "Zum Gizmo",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7822551,
+          49.4441472
+        ]
+      },
+      "id": "node/3405948996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3451308279",
+        "amenity": "bar",
+        "name": "Zum Gallier Kiosk Bar",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7484777,
+          49.4397709
+        ]
+      },
+      "id": "node/3451308279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3508282059",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "1",
+        "addr:postcode": "67657",
+        "addr:street": "St.-Martins-Platz",
+        "amenity": "pub",
+        "name": "Barrel Inn",
+        "opening_hours": "Su-Th 17:30-01:00, Fr,Sa 17:00-04:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.barrel-inn.pub/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771279,
+          49.4461048
+        ]
+      },
+      "id": "node/3508282059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522441593",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "42",
+        "addr:postcode": "67655",
+        "addr:street": "Richard-Wagner-Straße",
+        "amenity": "nightclub",
+        "name": "Steamers Signature",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7656791,
+          49.4413499
+        ]
+      },
+      "id": "node/3522441593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578119094",
+        "amenity": "biergarten",
+        "description": "Gemeinsamer Biergarten von Ristorante und Eiscafe Garden",
+        "name": "Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.852757,
+          49.5688476
+        ]
+      },
+      "id": "node/3578119094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874826838",
+        "amenity": "bar",
+        "name": "Tapas-Bar España"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7614756,
+          49.4461985
+        ]
+      },
+      "id": "node/3874826838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891964048",
+        "amenity": "pub",
+        "name": "Gasthaus Becker",
+        "phone": "+49 6352 3718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0396096,
+          49.6327926
+        ]
+      },
+      "id": "node/3891964048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4011919007",
+        "amenity": "nightclub",
+        "name": "Foxy",
+        "opening_hours": "Fr, Sa 22:00-05:00",
+        "website": "https://foxyclub.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7717641,
+          49.4415112
+        ]
+      },
+      "id": "node/4011919007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182102580",
+        "amenity": "bar",
+        "food": "no",
+        "name": "Zum Jule",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0109156,
+          49.6657322
+        ]
+      },
+      "id": "node/4182102580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4510512187",
+        "amenity": "nightclub",
+        "name": "Abwärts",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7618327,
+          49.446086
+        ]
+      },
+      "id": "node/4510512187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4650320138",
+        "amenity": "biergarten",
+        "internet_access": "no",
+        "name": "Bei Bennersch",
+        "operator": "Michael Hess",
+        "smoking": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5388238,
+          49.667283
+        ]
+      },
+      "id": "node/4650320138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4796435204",
+        "amenity": "bar",
+        "check_date": "2023-10-13",
+        "name": "Cuvée",
+        "opening_hours": "Tu,We 16:00-22:00; Th 16:00-24:00; Fr 14:00-02:00; Sa 10:00-02:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.cuvee-weinbar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7719342,
+          49.4442619
+        ]
+      },
+      "id": "node/4796435204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4834152812",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/Bierbrunnen-Dreisen-715519678578258/",
+        "contact:phone": "+49 6357 973659",
+        "name": "Bierbrunnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0099653,
+          49.602266
+        ]
+      },
+      "id": "node/4834152812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932176393",
+        "amenity": "bar",
+        "name": "Hannenfass Lounge",
+        "opening_hours": "Mo-We 18:00-01:00, Th 12:00-01:00, Fr,Sa 12:00-04:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7717077,
+          49.4457736
+        ]
+      },
+      "id": "node/4932176393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965274184",
+        "amenity": "pub",
+        "name": "Café Munzur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0703364,
+          49.5571524
+        ]
+      },
+      "id": "node/4965274184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965274186",
+        "amenity": "pub",
+        "name": "Karins Pub",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0696726,
+          49.5565382
+        ]
+      },
+      "id": "node/4965274186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5071986838",
+        "amenity": "pub",
+        "name": "Zur Kanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0119546,
+          49.6635576
+        ]
+      },
+      "id": "node/5071986838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5071986839",
+        "amenity": "pub",
+        "name": "Zur Vorstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0124172,
+          49.6634005
+        ]
+      },
+      "id": "node/5071986839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5454241895",
+        "amenity": "bar",
+        "name": "Hop In",
+        "notes": "Craft Beer",
+        "opening_hours": "We,Th 18:00-01:00, Fr,Sa 18:00+",
+        "website": "https://www.hopin-kl.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7721483,
+          49.4463287
+        ]
+      },
+      "id": "node/5454241895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503325365",
+        "amenity": "bar",
+        "hookah": "yes",
+        "name": "Breeze",
+        "opening_hours": "Th,Su-Tu 19:00-01:00, We 18:00-01:00, Fr,Sa 19:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7725375,
+          49.446294
+        ]
+      },
+      "id": "node/5503325365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503325368",
+        "amenity": "bar",
+        "name": "Highballs Bar",
+        "start_date": "2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7722035,
+          49.4461702
+        ]
+      },
+      "id": "node/5503325368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503325371",
+        "amenity": "pub",
+        "name": "Texas Hold'em Club",
+        "opening_hours": "Fr,Sa 20:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7725629,
+          49.4465015
+        ]
+      },
+      "id": "node/5503325371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503325373",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "1",
+        "addr:postcode": "67657",
+        "addr:street": "St.-Martins-Platz",
+        "amenity": "pub",
+        "check_date:opening_hours": "2022-11-11",
+        "name": "Hannenfass",
+        "opening_hours": "Mo-Th 12:00-01:00, Fr-Sa 12:00-04:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "yes",
+        "website": "https://hannenfass-kl.wixsite.com/hannenfass",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7714928,
+          49.4459131
+        ]
+      },
+      "id": "node/5503325373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5611804146",
+        "amenity": "pub",
+        "name": "Richard Wagner Kiosk & Trinkhalle",
+        "opening_hours": "Mo-Th 07:00-01:00, Fr,Sa 07:00-02:00, Su 08:00-01:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7669998,
+          49.4398195
+        ]
+      },
+      "id": "node/5611804146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5657514568",
+        "amenity": "bar",
+        "name": "Kelterstübchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7698398,
+          49.4417894
+        ]
+      },
+      "id": "node/5657514568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846331143",
+        "amenity": "pub",
+        "check_date": "2023-10-14",
+        "name": "Journal Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765887,
+          49.4448445
+        ]
+      },
+      "id": "node/5846331143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704202262",
+        "amenity": "pub",
+        "name": "Connemara",
+        "website": "http://www.connemarairishpub.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0106506,
+          49.665496
+        ]
+      },
+      "id": "node/6704202262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6722633186",
+        "addr:city": "Mehlingen",
+        "addr:country": "DE",
+        "addr:postcode": "67678",
+        "addr:street": "An der Heide",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8465664,
+          49.4926833
+        ]
+      },
+      "id": "node/6722633186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7001203368",
+        "amenity": "pub",
+        "name": "Zum alde Jockel",
+        "phone": "+49 6355 998998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0732104,
+          49.6586277
+        ]
+      },
+      "id": "node/7001203368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7110629809",
+        "amenity": "pub",
+        "brewery": "yes",
+        "check_date:opening_hours": "2024-02-22",
+        "contact:email": "kaiserslautern@shooterstars.de",
+        "contact:facebook": "https://www.facebook.com/pages/category/Bar/Shooter-Stars-Kaiserslautern-106749374119694/",
+        "name": "Shooter Stars Kaiserslautern",
+        "opening_hours": "Th 19:00-01:00, Fr-Sa 17:00-03:00",
+        "website": "https://www.shooterstars.de/locations/kaiserslautern",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7731781,
+          49.4465462
+        ]
+      },
+      "id": "node/7110629809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7110654839",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "32",
+        "addr:postcode": "67657",
+        "addr:street": "Ludwigstraße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Ludwig32/",
+        "name": "Ludwig32",
+        "opening_hours": "Th-Sa 20:00+",
+        "outdoor_seating": "yes",
+        "phone": "+49 631 36793157",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7732368,
+          49.4478995
+        ]
+      },
+      "id": "node/7110654839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7426094098",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3809337,
+          49.522819
+        ]
+      },
+      "id": "node/7426094098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7692796891",
+        "amenity": "pub",
+        "name": "Helgas kleine Kneipe",
+        "opening_hours": "Mo-We,Fr,Sa 11:00-14:00, Mo-We 17:00-23:00, Fr 17:00-18:00+, Sa 17:00-18:00+, Su 10:00-14:00,17:00-18:00+; Th off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0463722,
+          49.5943595
+        ]
+      },
+      "id": "node/7692796891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8462389467",
+        "amenity": "pub",
+        "name": "Gaststätte Zur Alten Welt",
+        "opening_hours": "We-Sa 17:00-22:00; Su,PH 11:30-22:00",
+        "phone": "+49 6363 9999283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7292547,
+          49.5975758
+        ]
+      },
+      "id": "node/8462389467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9038584310",
+        "amenity": "pub",
+        "name": "Kupfermine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320419,
+          49.4424512
+        ]
+      },
+      "id": "node/9038584310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9041825048",
+        "amenity": "pub",
+        "name": "Hafenkneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3384501,
+          49.4284327
+        ]
+      },
+      "id": "node/9041825048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9045006020",
+        "amenity": "pub",
+        "name": "Zur Frischen Quelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3366691,
+          49.4302661
+        ]
+      },
+      "id": "node/9045006020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9088468426",
+        "amenity": "pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.340219,
+          49.4092054
+        ]
+      },
+      "id": "node/9088468426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9095394648",
+        "amenity": "pub",
+        "name": "Sportheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3812729,
+          49.4073484
+        ]
+      },
+      "id": "node/9095394648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9118444983",
+        "amenity": "pub",
+        "name": "Pils-Stube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3036712,
+          49.4160329
+        ]
+      },
+      "id": "node/9118444983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9130438548",
+        "amenity": "pub",
+        "name": "Bistro Elena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.335721,
+          49.3877384
+        ]
+      },
+      "id": "node/9130438548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9190447891",
+        "amenity": "pub",
+        "check_date": "2023-12-29",
+        "name": "Beşiktaş Istandbul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7778245,
+          49.4470957
+        ]
+      },
+      "id": "node/9190447891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9197120670",
+        "amenity": "pub",
+        "name": "Farbkaschde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3277347,
+          49.5402209
+        ]
+      },
+      "id": "node/9197120670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217072210",
+        "amenity": "pub",
+        "name": "Zur Alten Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3328631,
+          49.3876781
+        ]
+      },
+      "id": "node/9217072210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217093478",
+        "amenity": "pub",
+        "name": "VfB Waldmohr Sportheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3353186,
+          49.3816735
+        ]
+      },
+      "id": "node/9217093478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9257992727",
+        "amenity": "pub",
+        "name": "Zur Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3452938,
+          49.4745138
+        ]
+      },
+      "id": "node/9257992727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9307331139",
+        "amenity": "pub",
+        "name": "Gasthaus Bauer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3627469,
+          49.432423
+        ]
+      },
+      "id": "node/9307331139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309579022",
+        "amenity": "pub",
+        "name": "Gasthaus Saini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3638761,
+          49.4322207
+        ]
+      },
+      "id": "node/9309579022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9364144209",
+        "amenity": "pub",
+        "name": "Dorfkneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749162,
+          49.6458051
+        ]
+      },
+      "id": "node/9364144209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9490049825",
+        "amenity": "pub",
+        "name": "Zum Appeltal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8628072,
+          49.7096889
+        ]
+      },
+      "id": "node/9490049825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9490214534",
+        "amenity": "pub",
+        "name": "Clou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8649101,
+          49.7035207
+        ]
+      },
+      "id": "node/9490214534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653700957",
+        "amenity": "pub",
+        "name": "Zum Dampfenden Gaul",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4000806,
+          49.5382554
+        ]
+      },
+      "id": "node/9653700957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9715905909",
+        "amenity": "pub",
+        "name": "Tennis-Plätsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3934796,
+          49.5477403
+        ]
+      },
+      "id": "node/9715905909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950900142",
+        "addr:city": "Winnweiler",
+        "addr:housenumber": "30",
+        "addr:postcode": "67722",
+        "addr:street": "Schloßstraße",
+        "amenity": "pub",
+        "name": "Zum Schnorres",
+        "opening_hours": "\"Wenn die Funzel brennt simmer do!\"",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8536319,
+          49.569746
+        ]
+      },
+      "id": "node/9950900142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008535184",
+        "amenity": "pub",
+        "name": "Da Lidia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4022759,
+          49.4218598
+        ]
+      },
+      "id": "node/10008535184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10109898863",
+        "amenity": "pub",
+        "name": "Brückenkneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8142527,
+          49.7231215
+        ]
+      },
+      "id": "node/10109898863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10263245375",
+        "amenity": "pub",
+        "name": "Gasthaus Zum Grünen Tal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3820803,
+          49.4533535
+        ]
+      },
+      "id": "node/10263245375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10297040411",
+        "amenity": "pub",
+        "name": "Rathsweiler Eck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4594043,
+          49.5984519
+        ]
+      },
+      "id": "node/10297040411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10309601022",
+        "amenity": "pub",
+        "name": "Zum Steinalbtal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4676092,
+          49.6058572
+        ]
+      },
+      "id": "node/10309601022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10711170301",
+        "amenity": "pub",
+        "name": "Zur Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7948199,
+          49.7327013
+        ]
+      },
+      "id": "node/10711170301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10814971237",
+        "amenity": "pub",
+        "name": "Zwölf Apostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7862475,
+          49.4455537
+        ]
+      },
+      "id": "node/10814971237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10959121443",
+        "amenity": "pub",
+        "name": "Vinoteca Dai Romani",
+        "phone": "+49 6352 6789341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0104465,
+          49.6640704
+        ]
+      },
+      "id": "node/10959121443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10963616430",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9451876,
+          49.540708
+        ]
+      },
+      "id": "node/10963616430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11007404759",
+        "amenity": "pub",
+        "name": "Live Lokal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7026585,
+          49.5013943
+        ]
+      },
+      "id": "node/11007404759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11028509547",
+        "amenity": "pub",
+        "name": "Gasthaus Henn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5644141,
+          49.5578492
+        ]
+      },
+      "id": "node/11028509547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11045365662",
+        "amenity": "pub",
+        "name": "Gasthaus ins Schucke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5544417,
+          49.5358538
+        ]
+      },
+      "id": "node/11045365662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11058106306",
+        "amenity": "pub",
+        "name": "Dorfschenke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5176968,
+          49.5290655
+        ]
+      },
+      "id": "node/11058106306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061460534",
+        "amenity": "pub",
+        "name": "Parkbräustube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5181836,
+          49.528061
+        ]
+      },
+      "id": "node/11061460534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11371116526",
+        "amenity": "pub",
+        "name": "Zur Alten Schenke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6055264,
+          49.5850566
+        ]
+      },
+      "id": "node/11371116526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11538014736",
+        "amenity": "pub",
+        "cuisine": "italian;international;pizza",
+        "name": "Belzappel",
+        "opening_hours": "Tu-Sa 17:00-23:00; Su 11:30-14:00,17:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7258074,
+          49.4359906
+        ]
+      },
+      "id": "node/11538014736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11983041624",
+        "amenity": "bar",
+        "name": "Psssst! Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7517805,
+          49.4431183
+        ]
+      },
+      "id": "node/11983041624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12082843949",
+        "addr:city": "Kaiserslautern",
+        "addr:housenumber": "22",
+        "addr:postcode": "67655",
+        "addr:street": "Friedrich-Engels-Straße",
+        "amenity": "bar",
+        "name": "Hannewackel",
+        "opening_hours": "Mo off; Tu-Th,Su 17:00-24:00; Fr,Sa 17:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7591448,
+          49.4419134
+        ]
+      },
+      "id": "node/12082843949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12132306363",
+        "amenity": "bar",
+        "name": "Beverly Lounge",
+        "opening_hours": "We-Th 19:00-01:00, Fr-Sa 19:00-03:00, Su 19:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7672845,
+          49.4432491
+        ]
+      },
+      "id": "node/12132306363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12330342084",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2894488,
+          49.4580584
+        ]
+      },
+      "id": "node/12330342084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12610076572",
+        "amenity": "pub",
+        "name": "Postkutsche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7558789,
+          49.4434636
+        ]
+      },
+      "id": "node/12610076572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12610076583",
+        "amenity": "pub",
+        "name": "Eddy's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7597588,
+          49.4437147
+        ]
+      },
+      "id": "node/12610076583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12610076588",
+        "amenity": "bar",
+        "name": "Istanbul Café & Bar",
+        "opening_hours": "Mo-Th 13:00-02:00, Fr 13:00-05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7648395,
+          49.4444446
+        ]
+      },
+      "id": "node/12610076588"
+    }
+  ]
+}
